@@ -1,0 +1,7 @@
+numpy
+sounddevice
+faster-whisper
+mss
+pytesseract
+Pillow
+openai

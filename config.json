@@ -1,0 +1,7 @@
+{
+  "max_duration_seconds": 7200,
+  "audio_chunk_seconds": 7,
+  "ocr_interval_seconds": 8,
+  "sample_rate": 16000,
+  "input_device": null
+}
