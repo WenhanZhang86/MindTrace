@@ -1,0 +1,1121 @@
+2026-07-02 16:26:07 INFO [context_assistant.__main__] App start
+2026-07-02 16:26:07 INFO [context_assistant.core.sqlite_store] SQLite database initialized at /Users/tomzhang/Desktop/Mindtrace/data/mindtrace.db
+2026-07-02 16:26:07 INFO [context_assistant.core.retriever] Rebuilding vector index
+2026-07-02 16:26:07 INFO [context_assistant.core.indexing_worker] Indexing worker started
+2026-07-02 16:27:45 INFO [context_assistant.core.session_store] Session saved
+2026-07-02 16:27:45 INFO [context_assistant.__main__] Capture start session_id=20260702_162745_e194f5
+2026-07-02 16:27:46 INFO [context_assistant.core.capture_audio] Audio capture start
+2026-07-02 16:27:46 INFO [context_assistant.core.capture_screen] Screen OCR capture start
+2026-07-02 16:27:47 WARNING [context_assistant.core.capture_screen] OCR language missing (chi_sim); falling back to eng
+2026-07-02 16:27:50 INFO [context_assistant.core.session_store] Session saved
+2026-07-02 16:28:00 INFO [context_assistant.core.session_store] Session saved
+2026-07-02 16:28:10 INFO [context_assistant.core.session_store] Session saved
+2026-07-02 16:28:19 INFO [context_assistant.core.session_store] Session saved
+2026-07-02 16:28:28 INFO [context_assistant.core.session_store] Session saved
+2026-07-02 16:28:39 INFO [context_assistant.__main__] Capture stop session_id=20260702_162745_e194f5
+2026-07-02 16:28:39 INFO [context_assistant.core.session_store] Session saved
+2026-07-02 16:28:39 INFO [context_assistant.core.session_store] Session saved
+2026-07-02 16:29:56 INFO [context_assistant.core.llm_client] LLM request start provider=deepseek model=deepseek-v4-flash endpoint=chat
+2026-07-02 16:30:04 INFO [context_assistant.core.llm_client] LLM request start provider=deepseek model=deepseek-v4-flash endpoint=chat
+2026-07-02 16:30:05 INFO [context_assistant.core.llm_client] LLM request start provider=deepseek model=deepseek-v4-flash endpoint=chat
+2026-07-02 16:30:35 INFO [context_assistant.core.llm_client] LLM request end provider=deepseek model=deepseek-v4-flash
+2026-07-02 16:30:37 INFO [context_assistant.core.llm_client] LLM request end provider=deepseek model=deepseek-v4-flash
+2026-07-02 16:31:01 INFO [context_assistant.core.llm_client] LLM request end provider=deepseek model=deepseek-v4-flash
+2026-07-02 16:37:08 INFO [context_assistant.core.indexing_worker] Indexing worker stopped
+2026-07-02 16:44:50 INFO [context_assistant.__main__] App start
+2026-07-02 16:44:50 INFO [context_assistant.core.sqlite_store] SQLite database initialized at /Users/tomzhang/Desktop/Mindtrace/data/mindtrace.db
+2026-07-02 16:44:50 INFO [context_assistant.core.retriever] Rebuilding vector index
+2026-07-02 16:44:50 INFO [context_assistant.core.indexing_worker] Indexing worker started
+2026-07-02 16:50:16 INFO [context_assistant.core.indexing_worker] Indexing worker stopped
+2026-07-02 17:16:29 INFO [context_assistant.__main__] App start
+2026-07-02 17:16:29 INFO [context_assistant.core.sqlite_store] SQLite database initialized at /Users/tomzhang/Desktop/Mindtrace/data/mindtrace.db
+2026-07-02 17:16:29 INFO [context_assistant.core.retriever] Rebuilding vector index
+2026-07-02 17:16:29 INFO [context_assistant.core.indexing_worker] Indexing worker started
+2026-07-02 17:16:29 INFO [context_assistant.core.retriever] Vector index rebuild completed elapsed_ms=8.7
+2026-07-02 17:16:29 INFO [context_assistant.__main__] App startup completed elapsed_ms=69.3
+2026-07-02 17:18:41 INFO [context_assistant.core.retriever] Retrieval completed status=using hybrid retrieval elapsed_ms=4.1
+2026-07-02 17:18:41 INFO [context_assistant.core.llm_client] LLM request start provider=deepseek model=deepseek-v4-flash endpoint=chat
+2026-07-02 17:19:36 INFO [context_assistant.core.session_store] Session saved
+2026-07-02 17:19:36 INFO [context_assistant.__main__] Capture start session_id=20260702_171936_718333
+2026-07-02 17:19:37 INFO [context_assistant.core.capture_audio] Audio capture start
+2026-07-02 17:19:37 INFO [context_assistant.core.capture_screen] Screen OCR capture start
+2026-07-02 17:19:37 INFO [context_assistant.__main__] Capture stop session_id=20260702_171936_718333
+2026-07-02 17:19:37 INFO [context_assistant.core.session_store] Session saved
+2026-07-02 17:19:37 WARNING [context_assistant.core.capture_screen] OCR language missing (chi_sim); falling back to eng
+2026-07-02 17:19:38 INFO [context_assistant.core.llm_client] LLM request end provider=deepseek model=deepseek-v4-flash elapsed_ms=57521.6
+2026-07-02 17:27:23 INFO [context_assistant.__main__] App start
+2026-07-02 17:27:23 INFO [context_assistant.core.sqlite_store] SQLite database initialized at /Users/tomzhang/Desktop/Mindtrace/data/mindtrace.db
+2026-07-02 17:27:23 INFO [context_assistant.core.indexing_worker] Indexing worker started
+2026-07-02 17:27:23 INFO [context_assistant.core.retriever] Vector index loaded in background records=7
+2026-07-02 17:27:23 INFO [context_assistant.__main__] App startup completed elapsed_ms=16.6
+2026-07-02 17:27:47 INFO [context_assistant.core.indexing_worker] Indexing worker stopped
+2026-07-02 17:28:28 INFO [context_assistant.__main__] App start
+2026-07-02 17:28:28 INFO [context_assistant.core.sqlite_store] SQLite database initialized at /Users/tomzhang/Desktop/Mindtrace/data/mindtrace.db
+2026-07-02 17:28:28 INFO [context_assistant.core.indexing_worker] Indexing worker started
+2026-07-02 17:28:28 INFO [context_assistant.core.retriever] Vector index loaded in background records=7
+2026-07-02 17:28:28 INFO [context_assistant.__main__] App startup completed elapsed_ms=62.9
+2026-07-02 17:38:36 INFO [context_assistant.core.session_store] Session saved
+2026-07-02 17:38:36 INFO [context_assistant.__main__] Capture start session_id=20260702_173836_5b233f
+2026-07-02 17:38:37 INFO [context_assistant.core.capture_audio] Audio capture start
+2026-07-02 17:38:37 INFO [context_assistant.core.capture_screen] Screen OCR capture start
+2026-07-02 17:38:37 WARNING [context_assistant.core.capture_screen] OCR language missing (chi_sim); falling back to eng
+2026-07-02 17:38:40 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.8 enqueue_ms=0.7 pending=1
+2026-07-02 17:38:40 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=1649.2
+2026-07-02 17:38:41 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=5.7
+2026-07-02 17:38:49 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.7 enqueue_ms=0.7 pending=1
+2026-07-02 17:38:49 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=1460.9
+2026-07-02 17:38:50 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=3.9
+2026-07-02 17:38:59 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=1141.1
+2026-07-02 17:39:08 INFO [context_assistant.core.session_store] Session saved
+2026-07-02 17:39:08 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=2.1 enqueue_ms=3.0 pending=1
+2026-07-02 17:39:08 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=1245.7
+2026-07-02 17:39:09 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=3.7
+2026-07-02 17:39:18 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.5 enqueue_ms=0.9 pending=1
+2026-07-02 17:39:18 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=1189.0
+2026-07-02 17:39:18 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=3.1
+2026-07-02 17:39:27 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.7 enqueue_ms=0.8 pending=1
+2026-07-02 17:39:27 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=1445.3
+2026-07-02 17:39:28 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=3.1
+2026-07-02 17:39:37 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.4 enqueue_ms=0.6 pending=1
+2026-07-02 17:39:37 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=1136.0
+2026-07-02 17:39:37 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=3.0
+2026-07-02 17:39:46 INFO [context_assistant.core.session_store] Session saved
+2026-07-02 17:39:46 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.1 enqueue_ms=0.6 pending=1
+2026-07-02 17:39:46 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=1645.3
+2026-07-02 17:39:47 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=3.4
+2026-07-02 17:39:56 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.4 enqueue_ms=0.7 pending=1
+2026-07-02 17:39:56 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=1896.8
+2026-07-02 17:39:57 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=4.0
+2026-07-02 17:40:06 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.3 enqueue_ms=0.7 pending=1
+2026-07-02 17:40:07 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=1939.5
+2026-07-02 17:40:07 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=6.0
+2026-07-02 17:40:08 INFO [context_assistant.__main__] Capture persisted source=audio sqlite_ms=1.6 enqueue_ms=2.0 pending=1
+2026-07-02 17:40:10 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=2.4
+2026-07-02 17:40:16 INFO [context_assistant.__main__] Capture stop session_id=20260702_173836_5b233f
+2026-07-02 17:40:16 INFO [context_assistant.core.session_store] Session saved
+2026-07-02 17:40:17 INFO [context_assistant.core.session_store] Session saved
+2026-07-02 17:40:17 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=2.6 enqueue_ms=0.6 pending=1
+2026-07-02 17:40:17 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=1859.8
+2026-07-02 17:40:17 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=3.3
+2026-07-02 17:40:31 INFO [context_assistant.core.retriever] Retrieval completed status=using hybrid retrieval elapsed_ms=1.0
+2026-07-02 17:40:31 INFO [context_assistant.core.llm_client] LLM request start provider=deepseek model=deepseek-v4-flash endpoint=chat
+2026-07-02 17:40:37 INFO [context_assistant.core.llm_client] LLM request end provider=deepseek model=deepseek-v4-flash elapsed_ms=5547.5
+2026-07-02 17:41:06 INFO [context_assistant.core.retriever] Retrieval completed status=using hybrid retrieval elapsed_ms=4.0
+2026-07-02 17:41:06 INFO [context_assistant.core.llm_client] LLM request start provider=deepseek model=deepseek-v4-flash endpoint=chat
+2026-07-02 17:41:13 INFO [context_assistant.core.llm_client] LLM request end provider=deepseek model=deepseek-v4-flash elapsed_ms=6891.6
+2026-07-02 17:41:45 INFO [context_assistant.core.retriever] Retrieval completed status=using hybrid retrieval elapsed_ms=0.8
+2026-07-02 17:41:45 INFO [context_assistant.core.llm_client] LLM request start provider=deepseek model=deepseek-v4-flash endpoint=chat
+2026-07-02 17:41:55 INFO [context_assistant.core.llm_client] LLM request end provider=deepseek model=deepseek-v4-flash elapsed_ms=9841.3
+2026-07-02 17:42:17 INFO [context_assistant.core.indexing_worker] Indexing worker stopped
+2026-07-02 17:42:52 INFO [context_assistant.__main__] App start
+2026-07-02 17:42:52 INFO [context_assistant.core.sqlite_store] SQLite database initialized at /Users/tomzhang/Desktop/Mindtrace/data/mindtrace.db
+2026-07-02 17:42:52 INFO [context_assistant.core.indexing_worker] Indexing worker started
+2026-07-02 17:42:52 INFO [context_assistant.core.retriever] Vector index loaded in background records=18
+2026-07-02 17:42:52 INFO [context_assistant.__main__] App startup completed elapsed_ms=70.2
+2026-07-02 17:44:13 INFO [context_assistant.core.session_store] Session saved
+2026-07-02 17:44:13 INFO [context_assistant.__main__] Capture start session_id=20260702_174413_cc4e25
+2026-07-02 17:44:13 INFO [context_assistant.core.capture_audio] Audio capture start
+2026-07-02 17:44:13 INFO [context_assistant.core.capture_screen] Screen OCR capture start
+2026-07-02 17:44:13 WARNING [context_assistant.core.capture_screen] OCR language missing (chi_sim); falling back to eng
+2026-07-02 17:44:14 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=3.9 enqueue_ms=0.8 pending=1
+2026-07-02 17:44:14 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=1060.4
+2026-07-02 17:44:15 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=4.1
+2026-07-02 17:44:20 INFO [context_assistant.core.capture_audio] Loading Whisper model in background
+2026-07-02 17:44:21 INFO [context_assistant.core.capture_audio] Whisper model loaded elapsed_ms=1015.5
+2026-07-02 17:44:22 INFO [context_assistant.core.capture_audio] Audio transcription completed elapsed_ms=578.5
+2026-07-02 17:44:23 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.4 enqueue_ms=0.9 pending=1
+2026-07-02 17:44:23 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=682.8
+2026-07-02 17:44:24 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=5.2
+2026-07-02 17:44:28 INFO [context_assistant.core.capture_audio] Audio transcription completed elapsed_ms=469.0
+2026-07-02 17:44:32 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.6 enqueue_ms=0.6 pending=1
+2026-07-02 17:44:32 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=606.1
+2026-07-02 17:44:33 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=3.5
+2026-07-02 17:44:37 INFO [context_assistant.core.capture_audio] Audio transcription completed elapsed_ms=422.4
+2026-07-02 17:44:41 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.5 enqueue_ms=0.8 pending=1
+2026-07-02 17:44:41 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=478.6
+2026-07-02 17:44:41 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=3.4
+2026-07-02 17:44:47 INFO [context_assistant.core.capture_audio] Audio transcription completed elapsed_ms=396.0
+2026-07-02 17:44:49 INFO [context_assistant.core.session_store] Session saved
+2026-07-02 17:44:49 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.5 enqueue_ms=0.7 pending=1
+2026-07-02 17:44:50 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=657.4
+2026-07-02 17:44:50 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=5.1
+2026-07-02 17:44:55 INFO [context_assistant.core.capture_audio] Audio transcription completed elapsed_ms=430.0
+2026-07-02 17:44:57 INFO [context_assistant.core.capture_audio] Audio transcription completed elapsed_ms=422.5
+2026-07-02 17:44:58 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.8 enqueue_ms=1.1 pending=1
+2026-07-02 17:44:58 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=639.1
+2026-07-02 17:44:59 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=6.7
+2026-07-02 17:45:06 INFO [context_assistant.core.capture_audio] Audio transcription completed elapsed_ms=444.3
+2026-07-02 17:45:07 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.6 enqueue_ms=0.5 pending=1
+2026-07-02 17:45:07 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=551.0
+2026-07-02 17:45:08 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=15.7
+2026-07-02 17:45:11 INFO [context_assistant.core.capture_audio] Audio transcription completed elapsed_ms=432.7
+2026-07-02 17:45:16 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.6 enqueue_ms=0.9 pending=1
+2026-07-02 17:45:16 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=669.2
+2026-07-02 17:45:16 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=6.0
+2026-07-02 17:45:21 INFO [context_assistant.core.session_store] Session saved
+2026-07-02 17:45:21 INFO [context_assistant.__main__] Capture persisted source=audio sqlite_ms=2.2 enqueue_ms=1.3 pending=1
+2026-07-02 17:45:21 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=57.0
+2026-07-02 17:45:22 INFO [context_assistant.core.capture_audio] Audio transcription completed elapsed_ms=430.8
+2026-07-02 17:45:25 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.6 enqueue_ms=2.1 pending=1
+2026-07-02 17:45:25 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=1027.0
+2026-07-02 17:45:25 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=4.7
+2026-07-02 17:45:29 INFO [context_assistant.__main__] Capture stop session_id=20260702_174413_cc4e25
+2026-07-02 17:45:29 INFO [context_assistant.core.session_store] Session saved
+2026-07-02 17:45:34 INFO [context_assistant.core.llm_client] LLM request start provider=deepseek model=deepseek-v4-flash endpoint=chat
+2026-07-02 17:45:45 INFO [context_assistant.core.llm_client] LLM request end provider=deepseek model=deepseek-v4-flash elapsed_ms=11285.0
+2026-07-02 17:46:42 INFO [context_assistant.core.retriever] Retrieval completed status=using hybrid retrieval elapsed_ms=6.2
+2026-07-02 17:46:42 INFO [context_assistant.core.llm_client] LLM request start provider=deepseek model=deepseek-v4-flash endpoint=chat
+2026-07-02 17:46:50 INFO [context_assistant.core.llm_client] LLM request end provider=deepseek model=deepseek-v4-flash elapsed_ms=8695.3
+2026-07-02 17:47:41 INFO [context_assistant.core.indexing_worker] Indexing worker stopped
+2026-07-02 18:05:41 INFO [context_assistant.__main__] App start
+2026-07-02 18:05:41 INFO [context_assistant.core.sqlite_store] SQLite database initialized at /Users/tomzhang/Desktop/Mindtrace/data/mindtrace.db
+2026-07-02 18:05:41 INFO [context_assistant.core.indexing_worker] Indexing worker started
+2026-07-02 18:05:41 INFO [context_assistant.core.retriever] Vector index loaded in background records=28
+2026-07-02 18:05:41 INFO [context_assistant.__main__] App startup completed elapsed_ms=72.3
+2026-07-02 18:07:55 INFO [context_assistant.core.session_store] Session saved
+2026-07-02 18:07:55 INFO [context_assistant.__main__] Capture start session_id=20260702_180755_972ee7
+2026-07-02 18:07:55 INFO [context_assistant.core.capture_audio] Audio capture start
+2026-07-02 18:07:55 INFO [context_assistant.core.capture_screen] Screen OCR capture start
+2026-07-02 18:07:55 WARNING [context_assistant.core.capture_screen] OCR language missing (chi_sim); falling back to eng
+2026-07-02 18:07:56 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=3.3 enqueue_ms=0.6 pending=1
+2026-07-02 18:07:56 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=512.4
+2026-07-02 18:07:56 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=59.7
+2026-07-02 18:07:57 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=7.8
+2026-07-02 18:07:57 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=59.1
+2026-07-02 18:07:58 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=60.8
+2026-07-02 18:07:59 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.4 enqueue_ms=0.7 pending=1
+2026-07-02 18:07:59 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=655.8
+2026-07-02 18:08:00 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=4.7
+2026-07-02 18:08:00 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=91.9
+2026-07-02 18:08:01 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=53.3
+2026-07-02 18:08:02 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.2 enqueue_ms=0.7 pending=1
+2026-07-02 18:08:02 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=546.3
+2026-07-02 18:08:03 INFO [context_assistant.core.capture_audio] Loading Whisper model in background
+2026-07-02 18:08:03 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=8.6
+2026-07-02 18:08:03 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.6 enqueue_ms=0.7 pending=1
+2026-07-02 18:08:03 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=387.3
+2026-07-02 18:08:04 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=367.5
+2026-07-02 18:08:04 INFO [context_assistant.core.capture_audio] Whisper model loaded elapsed_ms=1485.1
+2026-07-02 18:08:05 INFO [context_assistant.core.capture_audio] Audio transcription completed elapsed_ms=469.6
+2026-07-02 18:08:05 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=69.2
+2026-07-02 18:08:06 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=3.5
+2026-07-02 18:08:06 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=2.0 enqueue_ms=0.9 pending=1
+2026-07-02 18:08:06 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=725.0
+2026-07-02 18:08:07 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.2 enqueue_ms=0.7 pending=2
+2026-07-02 18:08:07 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=503.2
+2026-07-02 18:08:08 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=60.9
+2026-07-02 18:08:09 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=2 captures=2 vectors=2 elapsed_ms=4.5
+2026-07-02 18:08:09 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=59.8
+2026-07-02 18:08:09 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=63.8
+2026-07-02 18:08:10 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=63.3
+2026-07-02 18:08:11 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=60.0
+2026-07-02 18:08:12 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=65.5
+2026-07-02 18:08:12 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=63.7
+2026-07-02 18:08:13 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=62.9
+2026-07-02 18:08:14 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=65.6
+2026-07-02 18:08:15 INFO [context_assistant.core.capture_audio] Audio transcription completed elapsed_ms=467.0
+2026-07-02 18:08:15 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=70.1
+2026-07-02 18:08:15 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=60.3
+2026-07-02 18:08:16 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=63.9
+2026-07-02 18:08:17 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=62.4
+2026-07-02 18:08:18 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=730.8
+2026-07-02 18:08:19 INFO [context_assistant.core.capture_audio] Audio transcription completed elapsed_ms=495.6
+2026-07-02 18:08:20 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.6 enqueue_ms=0.7 pending=1
+2026-07-02 18:08:20 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=851.3
+2026-07-02 18:08:20 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=3.7
+2026-07-02 18:08:21 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=3.9 enqueue_ms=1.2 pending=1
+2026-07-02 18:08:21 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=563.4
+2026-07-02 18:08:22 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.3 enqueue_ms=0.9 pending=2
+2026-07-02 18:08:22 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=729.1
+2026-07-02 18:08:23 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=2 captures=2 vectors=2 elapsed_ms=4.4
+2026-07-02 18:08:24 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.4 enqueue_ms=0.9 pending=1
+2026-07-02 18:08:24 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=849.8
+2026-07-02 18:08:25 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=70.2
+2026-07-02 18:08:26 INFO [context_assistant.core.session_store] Session saved
+2026-07-02 18:08:26 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.5 enqueue_ms=1.0 pending=2
+2026-07-02 18:08:26 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=364.7
+2026-07-02 18:08:26 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=2 captures=2 vectors=2 elapsed_ms=3.7
+2026-07-02 18:08:26 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=64.3
+2026-07-02 18:08:27 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=58.1
+2026-07-02 18:08:28 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=62.4
+2026-07-02 18:08:28 INFO [context_assistant.core.capture_audio] Audio transcription completed elapsed_ms=427.2
+2026-07-02 18:08:29 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=67.0
+2026-07-02 18:08:29 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=91.4
+2026-07-02 18:08:30 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=61.4
+2026-07-02 18:08:31 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=63.6
+2026-07-02 18:08:32 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.4 enqueue_ms=1.0 pending=1
+2026-07-02 18:08:32 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=357.2
+2026-07-02 18:08:33 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=3.5
+2026-07-02 18:08:33 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.0 enqueue_ms=0.7 pending=1
+2026-07-02 18:08:33 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=389.9
+2026-07-02 18:08:34 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=2.3 enqueue_ms=0.8 pending=2
+2026-07-02 18:08:34 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=448.8
+2026-07-02 18:08:35 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=367.9
+2026-07-02 18:08:36 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=2 captures=2 vectors=2 elapsed_ms=3.9
+2026-07-02 18:08:36 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=320.6
+2026-07-02 18:08:37 INFO [context_assistant.core.capture_audio] Audio transcription completed elapsed_ms=417.3
+2026-07-02 18:08:37 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=406.5
+2026-07-02 18:08:38 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=341.4
+2026-07-02 18:08:39 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=2.2 enqueue_ms=0.9 pending=1
+2026-07-02 18:08:39 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=465.2
+2026-07-02 18:08:40 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=3.2
+2026-07-02 18:08:40 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=57.4
+2026-07-02 18:08:41 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=334.3
+2026-07-02 18:08:42 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.1 enqueue_ms=1.0 pending=1
+2026-07-02 18:08:42 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=396.3
+2026-07-02 18:08:43 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=4.8
+2026-07-02 18:08:43 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.2 enqueue_ms=0.8 pending=1
+2026-07-02 18:08:43 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=449.7
+2026-07-02 18:08:44 INFO [context_assistant.core.capture_audio] Audio transcription completed elapsed_ms=435.9
+2026-07-02 18:08:45 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=0.9 enqueue_ms=0.6 pending=2
+2026-07-02 18:08:45 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=388.3
+2026-07-02 18:08:46 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.4 enqueue_ms=0.9 pending=3
+2026-07-02 18:08:46 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=363.4
+2026-07-02 18:08:46 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=3 captures=3 vectors=3 elapsed_ms=3.6
+2026-07-02 18:08:47 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.5 enqueue_ms=0.8 pending=1
+2026-07-02 18:08:47 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=351.0
+2026-07-02 18:08:48 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=367.8
+2026-07-02 18:08:49 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=313.4
+2026-07-02 18:08:49 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=3.0
+2026-07-02 18:08:50 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=475.8
+2026-07-02 18:08:50 INFO [context_assistant.core.capture_audio] Audio transcription completed elapsed_ms=392.8
+2026-07-02 18:08:51 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=305.1
+2026-07-02 18:08:52 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=324.7
+2026-07-02 18:08:53 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=315.0
+2026-07-02 18:08:54 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=321.0
+2026-07-02 18:08:55 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=421.6
+2026-07-02 18:08:56 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=360.4
+2026-07-02 18:08:57 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=299.6
+2026-07-02 18:08:58 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=375.5
+2026-07-02 18:08:58 INFO [context_assistant.core.session_store] Session saved
+2026-07-02 18:08:58 INFO [context_assistant.__main__] Capture persisted source=audio sqlite_ms=1.2 enqueue_ms=0.8 pending=1
+2026-07-02 18:08:59 INFO [context_assistant.core.capture_audio] Audio transcription completed elapsed_ms=433.1
+2026-07-02 18:08:59 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=3.4
+2026-07-02 18:08:59 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=346.0
+2026-07-02 18:09:00 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.5 enqueue_ms=0.6 pending=1
+2026-07-02 18:09:00 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=486.9
+2026-07-02 18:09:01 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=322.7
+2026-07-02 18:09:02 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=2.7
+2026-07-02 18:09:02 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=334.2
+2026-07-02 18:09:03 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=325.9
+2026-07-02 18:09:04 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=319.6
+2026-07-02 18:09:05 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=289.4
+2026-07-02 18:09:06 INFO [context_assistant.core.capture_audio] Audio transcription completed elapsed_ms=409.4
+2026-07-02 18:09:06 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=64.1
+2026-07-02 18:09:06 INFO [context_assistant.__main__] Capture persisted source=audio sqlite_ms=2.1 enqueue_ms=0.8 pending=1
+2026-07-02 18:09:07 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=63.6
+2026-07-02 18:09:07 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=6.2
+2026-07-02 18:09:08 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=330.1
+2026-07-02 18:09:08 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=308.3
+2026-07-02 18:09:09 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=294.8
+2026-07-02 18:09:10 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=317.0
+2026-07-02 18:09:11 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.2 enqueue_ms=0.7 pending=1
+2026-07-02 18:09:12 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=404.0
+2026-07-02 18:09:12 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=8.1
+2026-07-02 18:09:12 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=302.6
+2026-07-02 18:09:13 INFO [context_assistant.core.capture_audio] Audio transcription completed elapsed_ms=417.9
+2026-07-02 18:09:14 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=296.5
+2026-07-02 18:09:15 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=321.2
+2026-07-02 18:09:15 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=284.4
+2026-07-02 18:09:16 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.8 enqueue_ms=0.7 pending=1
+2026-07-02 18:09:16 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=262.5
+2026-07-02 18:09:17 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=3.0
+2026-07-02 18:09:17 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=61.3
+2026-07-02 18:09:18 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=368.2
+2026-07-02 18:09:19 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=362.6
+2026-07-02 18:09:20 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=351.7
+2026-07-02 18:09:21 INFO [context_assistant.core.capture_audio] Audio transcription completed elapsed_ms=465.0
+2026-07-02 18:09:21 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=536.0
+2026-07-02 18:09:22 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=333.1
+2026-07-02 18:09:23 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=341.6
+2026-07-02 18:09:24 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=310.7
+2026-07-02 18:09:25 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=360.6
+2026-07-02 18:09:27 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=341.0
+2026-07-02 18:09:28 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=354.4
+2026-07-02 18:09:29 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=389.4
+2026-07-02 18:09:29 INFO [context_assistant.core.capture_audio] Audio transcription completed elapsed_ms=434.0
+2026-07-02 18:09:30 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=333.2
+2026-07-02 18:09:31 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=298.1
+2026-07-02 18:09:31 INFO [context_assistant.core.session_store] Session saved
+2026-07-02 18:09:31 INFO [context_assistant.__main__] Capture persisted source=audio sqlite_ms=1.8 enqueue_ms=1.1 pending=1
+2026-07-02 18:09:32 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=332.2
+2026-07-02 18:09:32 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=8.3
+2026-07-02 18:09:33 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=351.5
+2026-07-02 18:09:34 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=378.5
+2026-07-02 18:09:35 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.2 enqueue_ms=0.6 pending=1
+2026-07-02 18:09:35 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=368.5
+2026-07-02 18:09:35 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=6.2
+2026-07-02 18:09:36 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.6 enqueue_ms=0.6 pending=1
+2026-07-02 18:09:36 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=482.1
+2026-07-02 18:09:37 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.6 enqueue_ms=0.9 pending=2
+2026-07-02 18:09:37 INFO [context_assistant.core.capture_audio] Audio transcription completed elapsed_ms=391.8
+2026-07-02 18:09:37 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=749.1
+2026-07-02 18:09:38 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=2 captures=2 vectors=2 elapsed_ms=4.0
+2026-07-02 18:09:38 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=412.2
+2026-07-02 18:09:39 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.6 enqueue_ms=0.7 pending=1
+2026-07-02 18:09:39 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=449.8
+2026-07-02 18:09:41 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=2.0 enqueue_ms=0.8 pending=2
+2026-07-02 18:09:41 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=419.7
+2026-07-02 18:09:41 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=2 captures=2 vectors=2 elapsed_ms=5.3
+2026-07-02 18:09:42 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.9 enqueue_ms=0.8 pending=1
+2026-07-02 18:09:42 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=420.8
+2026-07-02 18:09:43 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=2.1 enqueue_ms=0.9 pending=2
+2026-07-02 18:09:43 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=399.0
+2026-07-02 18:09:44 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.2 enqueue_ms=1.4 pending=3
+2026-07-02 18:09:44 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=487.7
+2026-07-02 18:09:44 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=3 captures=3 vectors=3 elapsed_ms=7.1
+2026-07-02 18:09:45 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=312.4
+2026-07-02 18:09:45 INFO [context_assistant.core.capture_audio] Audio transcription completed elapsed_ms=443.8
+2026-07-02 18:09:46 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.5 enqueue_ms=0.7 pending=1
+2026-07-02 18:09:46 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=366.2
+2026-07-02 18:09:47 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.2 enqueue_ms=0.5 pending=2
+2026-07-02 18:09:47 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=458.6
+2026-07-02 18:09:47 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=2 captures=2 vectors=2 elapsed_ms=8.8
+2026-07-02 18:09:48 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.6 enqueue_ms=0.9 pending=1
+2026-07-02 18:09:48 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=532.9
+2026-07-02 18:09:49 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=50.5
+2026-07-02 18:09:50 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=55.6
+2026-07-02 18:09:50 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=4.7
+2026-07-02 18:09:50 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=57.4
+2026-07-02 18:09:51 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=53.2
+2026-07-02 18:09:52 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=59.0
+2026-07-02 18:09:53 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=72.0
+2026-07-02 18:09:53 INFO [context_assistant.core.capture_audio] Audio transcription completed elapsed_ms=398.3
+2026-07-02 18:09:53 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=58.5
+2026-07-02 18:09:54 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=58.9
+2026-07-02 18:09:55 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=55.9
+2026-07-02 18:09:55 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=56.0
+2026-07-02 18:09:56 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=60.5
+2026-07-02 18:09:57 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=57.1
+2026-07-02 18:09:57 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=55.3
+2026-07-02 18:09:58 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=57.0
+2026-07-02 18:09:59 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=60.8
+2026-07-02 18:10:00 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=54.7
+2026-07-02 18:10:00 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=58.4
+2026-07-02 18:10:00 INFO [context_assistant.core.capture_audio] Audio transcription completed elapsed_ms=424.3
+2026-07-02 18:10:01 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=57.4
+2026-07-02 18:10:02 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=58.9
+2026-07-02 18:10:03 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=56.7
+2026-07-02 18:10:03 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=57.4
+2026-07-02 18:10:04 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=59.2
+2026-07-02 18:10:05 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=57.0
+2026-07-02 18:10:05 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=51.5
+2026-07-02 18:10:06 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=61.6
+2026-07-02 18:10:07 INFO [context_assistant.__main__] Capture stop session_id=20260702_180755_972ee7
+2026-07-02 18:10:07 INFO [context_assistant.core.session_store] Session saved
+2026-07-02 18:10:07 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=55.8
+2026-07-02 18:10:17 INFO [context_assistant.core.llm_client] LLM request start provider=deepseek model=deepseek-v4-flash endpoint=chat
+2026-07-02 18:10:28 INFO [context_assistant.core.llm_client] LLM request end provider=deepseek model=deepseek-v4-flash elapsed_ms=11260.6
+2026-07-02 18:11:51 INFO [context_assistant.core.retriever] Retrieval completed status=using hybrid retrieval elapsed_ms=14.4
+2026-07-02 18:11:51 INFO [context_assistant.core.llm_client] LLM request start provider=deepseek model=deepseek-v4-flash endpoint=chat
+2026-07-02 18:11:58 INFO [context_assistant.core.llm_client] LLM request end provider=deepseek model=deepseek-v4-flash elapsed_ms=7777.9
+2026-07-02 18:12:33 INFO [context_assistant.core.retriever] Retrieval completed status=using hybrid retrieval elapsed_ms=7.0
+2026-07-02 18:12:33 INFO [context_assistant.core.llm_client] LLM request start provider=deepseek model=deepseek-v4-flash endpoint=chat
+2026-07-02 18:12:42 INFO [context_assistant.core.llm_client] LLM request end provider=deepseek model=deepseek-v4-flash elapsed_ms=8906.3
+2026-07-02 18:14:51 INFO [context_assistant.core.indexing_worker] Indexing worker stopped
+2026-07-02 18:22:43 INFO [context_assistant.__main__] App start
+2026-07-02 18:22:43 INFO [context_assistant.core.sqlite_store] SQLite database initialized at /Users/tomzhang/Desktop/Mindtrace/data/mindtrace.db
+2026-07-02 18:22:43 INFO [context_assistant.core.indexing_worker] Indexing worker started
+2026-07-02 18:22:43 INFO [context_assistant.core.retriever] Vector index loaded in background records=65
+2026-07-02 18:22:43 INFO [context_assistant.__main__] App startup completed elapsed_ms=65.8
+2026-07-02 18:23:10 INFO [context_assistant.core.session_store] Session saved
+2026-07-02 18:23:10 INFO [context_assistant.__main__] Capture start session_id=20260702_182310_14afbe
+2026-07-02 18:23:10 INFO [context_assistant.core.capture_audio] Audio capture start
+2026-07-02 18:23:10 INFO [context_assistant.core.capture_screen] Screen OCR capture start
+2026-07-02 18:23:10 WARNING [context_assistant.core.capture_screen] OCR language missing (chi_sim); falling back to eng
+2026-07-02 18:23:11 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=3.3 enqueue_ms=0.6 pending=1
+2026-07-02 18:23:11 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=491.7
+2026-07-02 18:23:11 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=54.1
+2026-07-02 18:23:11 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=6.7
+2026-07-02 18:23:12 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.0 enqueue_ms=1.4 pending=1
+2026-07-02 18:23:12 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=496.4
+2026-07-02 18:23:13 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=51.6
+2026-07-02 18:23:14 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=55.6
+2026-07-02 18:23:14 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=4.6
+2026-07-02 18:23:14 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=56.8
+2026-07-02 18:23:15 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.9 enqueue_ms=1.4 pending=1
+2026-07-02 18:23:15 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=289.1
+2026-07-02 18:23:16 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=61.9
+2026-07-02 18:23:17 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=61.5
+2026-07-02 18:23:17 INFO [context_assistant.core.capture_audio] Loading Whisper model in background
+2026-07-02 18:23:17 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=6.5
+2026-07-02 18:23:18 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=346.5
+2026-07-02 18:23:18 INFO [context_assistant.core.capture_audio] Whisper model loaded elapsed_ms=1021.7
+2026-07-02 18:23:18 INFO [context_assistant.core.capture_audio] Audio transcription completed elapsed_ms=524.2
+2026-07-02 18:23:19 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=4.0 enqueue_ms=0.9 pending=1
+2026-07-02 18:23:19 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=371.2
+2026-07-02 18:23:20 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=60.5
+2026-07-02 18:23:20 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=3.3
+2026-07-02 18:23:21 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.6 enqueue_ms=0.6 pending=1
+2026-07-02 18:23:21 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=773.4
+2026-07-02 18:23:22 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.1 enqueue_ms=0.8 pending=2
+2026-07-02 18:23:22 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=319.4
+2026-07-02 18:23:23 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.1 enqueue_ms=0.7 pending=3
+2026-07-02 18:23:23 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=331.3
+2026-07-02 18:23:23 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=3 captures=3 vectors=3 elapsed_ms=4.8
+2026-07-02 18:23:24 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.6 enqueue_ms=0.7 pending=1
+2026-07-02 18:23:24 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=332.9
+2026-07-02 18:23:25 INFO [context_assistant.core.capture_audio] Audio transcription completed elapsed_ms=501.8
+2026-07-02 18:23:25 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=2.2 enqueue_ms=0.7 pending=2
+2026-07-02 18:23:25 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=403.1
+2026-07-02 18:23:26 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=380.5
+2026-07-02 18:23:26 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=2 captures=2 vectors=2 elapsed_ms=8.0
+2026-07-02 18:23:27 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=336.7
+2026-07-02 18:23:28 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=346.1
+2026-07-02 18:23:29 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=382.1
+2026-07-02 18:23:30 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=350.2
+2026-07-02 18:23:32 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=351.1
+2026-07-02 18:23:33 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=334.3
+2026-07-02 18:23:34 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=331.4
+2026-07-02 18:23:34 INFO [context_assistant.core.capture_audio] Audio transcription completed elapsed_ms=457.3
+2026-07-02 18:23:35 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=325.7
+2026-07-02 18:23:36 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=351.6
+2026-07-02 18:23:37 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=340.0
+2026-07-02 18:23:38 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=353.0
+2026-07-02 18:23:39 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=365.7
+2026-07-02 18:23:40 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=350.2
+2026-07-02 18:23:41 INFO [context_assistant.core.session_store] Session saved
+2026-07-02 18:23:41 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.3 enqueue_ms=0.9 pending=1
+2026-07-02 18:23:41 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=354.6
+2026-07-02 18:23:41 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=4.2
+2026-07-02 18:23:42 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=322.7
+2026-07-02 18:23:43 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=342.7
+2026-07-02 18:23:44 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=328.4
+2026-07-02 18:23:45 INFO [context_assistant.core.capture_audio] Audio transcription completed elapsed_ms=469.7
+2026-07-02 18:23:45 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.0 enqueue_ms=1.1 pending=1
+2026-07-02 18:23:45 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=492.8
+2026-07-02 18:23:45 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=5.8
+2026-07-02 18:23:46 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=323.5
+2026-07-02 18:23:47 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=2.1 enqueue_ms=0.8 pending=1
+2026-07-02 18:23:47 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=373.0
+2026-07-02 18:23:48 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.3 enqueue_ms=0.8 pending=2
+2026-07-02 18:23:48 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=442.4
+2026-07-02 18:23:48 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=2 captures=2 vectors=2 elapsed_ms=4.1
+2026-07-02 18:23:49 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=396.6
+2026-07-02 18:23:50 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=342.2
+2026-07-02 18:23:51 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=326.3
+2026-07-02 18:23:52 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=367.1
+2026-07-02 18:23:53 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=374.6
+2026-07-02 18:23:54 INFO [context_assistant.core.capture_audio] Audio transcription completed elapsed_ms=440.5
+2026-07-02 18:23:54 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=340.7
+2026-07-02 18:23:55 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=319.6
+2026-07-02 18:23:56 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=328.1
+2026-07-02 18:23:57 INFO [context_assistant.__main__] Capture persisted source=audio sqlite_ms=1.9 enqueue_ms=0.7 pending=1
+2026-07-02 18:23:57 INFO [context_assistant.core.capture_audio] Audio transcription completed elapsed_ms=464.4
+2026-07-02 18:23:57 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=355.1
+2026-07-02 18:23:58 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=4.1
+2026-07-02 18:23:58 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=359.1
+2026-07-02 18:23:59 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=366.5
+2026-07-02 18:24:00 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=343.0
+2026-07-02 18:24:01 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=356.2
+2026-07-02 18:24:02 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=69.3
+2026-07-02 18:24:03 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=62.5
+2026-07-02 18:24:04 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=361.2
+2026-07-02 18:24:05 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=346.8
+2026-07-02 18:24:06 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=368.3
+2026-07-02 18:24:07 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=3.2 enqueue_ms=0.8 pending=1
+2026-07-02 18:24:07 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=412.7
+2026-07-02 18:24:08 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=4.2
+2026-07-02 18:24:08 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=393.9
+2026-07-02 18:24:09 INFO [context_assistant.core.capture_audio] Audio transcription completed elapsed_ms=449.8
+2026-07-02 18:24:09 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=387.5
+2026-07-02 18:24:10 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=349.2
+2026-07-02 18:24:11 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=320.4
+2026-07-02 18:24:12 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=360.3
+2026-07-02 18:24:13 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=346.2
+2026-07-02 18:24:14 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=326.2
+2026-07-02 18:24:15 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=345.4
+2026-07-02 18:24:16 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=429.2
+2026-07-02 18:24:17 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=344.4
+2026-07-02 18:24:18 INFO [context_assistant.core.session_store] Session saved
+2026-07-02 18:24:18 INFO [context_assistant.__main__] Capture persisted source=audio sqlite_ms=1.9 enqueue_ms=0.5 pending=1
+2026-07-02 18:24:18 INFO [context_assistant.core.capture_audio] Audio transcription completed elapsed_ms=396.5
+2026-07-02 18:24:18 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=329.8
+2026-07-02 18:24:19 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=5.7
+2026-07-02 18:24:20 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=357.4
+2026-07-02 18:24:21 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=319.1
+2026-07-02 18:24:22 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=347.2
+2026-07-02 18:24:23 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.7 enqueue_ms=0.8 pending=1
+2026-07-02 18:24:23 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=363.0
+2026-07-02 18:24:23 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=3.2
+2026-07-02 18:24:24 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.2 enqueue_ms=1.1 pending=1
+2026-07-02 18:24:24 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=328.3
+2026-07-02 18:24:25 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=379.3
+2026-07-02 18:24:26 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=350.4
+2026-07-02 18:24:26 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=4.3
+2026-07-02 18:24:27 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=316.6
+2026-07-02 18:24:27 INFO [context_assistant.core.capture_audio] Audio transcription completed elapsed_ms=412.8
+2026-07-02 18:24:28 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=348.6
+2026-07-02 18:24:29 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=336.1
+2026-07-02 18:24:30 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=368.9
+2026-07-02 18:24:31 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=2.2 enqueue_ms=0.8 pending=1
+2026-07-02 18:24:31 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=422.0
+2026-07-02 18:24:32 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=4.4
+2026-07-02 18:24:32 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=428.6
+2026-07-02 18:24:33 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=356.6
+2026-07-02 18:24:34 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=478.5
+2026-07-02 18:24:35 INFO [context_assistant.__main__] Capture persisted source=audio sqlite_ms=1.1 enqueue_ms=0.8 pending=1
+2026-07-02 18:24:35 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=3.4
+2026-07-02 18:24:35 INFO [context_assistant.core.capture_audio] Audio transcription completed elapsed_ms=490.1
+2026-07-02 18:24:35 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.2 enqueue_ms=0.9 pending=1
+2026-07-02 18:24:35 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=518.6
+2026-07-02 18:24:36 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=351.2
+2026-07-02 18:24:37 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=367.1
+2026-07-02 18:24:38 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=3.2
+2026-07-02 18:24:38 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=358.3
+2026-07-02 18:24:39 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=341.8
+2026-07-02 18:24:40 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=326.8
+2026-07-02 18:24:41 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=2.3 enqueue_ms=0.8 pending=1
+2026-07-02 18:24:41 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=356.7
+2026-07-02 18:24:42 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=4.4
+2026-07-02 18:24:42 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=319.8
+2026-07-02 18:24:44 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.9 enqueue_ms=0.9 pending=1
+2026-07-02 18:24:44 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=396.1
+2026-07-02 18:24:45 WARNING [context_assistant.core.capture_audio] Audio queue full; dropping oldest audio chunk
+2026-07-02 18:24:45 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.9 enqueue_ms=1.2 pending=2
+2026-07-02 18:24:45 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=413.1
+2026-07-02 18:24:45 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=2 captures=2 vectors=2 elapsed_ms=4.4
+2026-07-02 18:24:46 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=2.0 enqueue_ms=0.7 pending=1
+2026-07-02 18:24:46 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=414.6
+2026-07-02 18:24:46 INFO [context_assistant.core.capture_audio] Audio transcription completed elapsed_ms=458.7
+2026-07-02 18:24:47 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=2.3 enqueue_ms=2.0 pending=2
+2026-07-02 18:24:47 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=486.1
+2026-07-02 18:24:48 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=2 captures=2 vectors=2 elapsed_ms=4.4
+2026-07-02 18:24:48 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=298.4
+2026-07-02 18:24:49 INFO [context_assistant.core.session_store] Session saved
+2026-07-02 18:24:49 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.4 enqueue_ms=0.5 pending=1
+2026-07-02 18:24:49 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=392.2
+2026-07-02 18:24:50 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=366.2
+2026-07-02 18:24:51 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=4.4
+2026-07-02 18:24:51 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=335.2
+2026-07-02 18:24:52 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=386.1
+2026-07-02 18:24:53 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=318.5
+2026-07-02 18:24:54 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=343.2
+2026-07-02 18:24:55 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.9 enqueue_ms=1.0 pending=1
+2026-07-02 18:24:55 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=468.2
+2026-07-02 18:24:56 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=3.7
+2026-07-02 18:24:56 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=2.0 enqueue_ms=0.7 pending=1
+2026-07-02 18:24:56 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=522.5
+2026-07-02 18:24:56 INFO [context_assistant.core.capture_audio] Audio transcription completed elapsed_ms=395.2
+2026-07-02 18:24:57 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=2.9 enqueue_ms=0.8 pending=2
+2026-07-02 18:24:57 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=369.2
+2026-07-02 18:24:59 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.4 enqueue_ms=1.0 pending=3
+2026-07-02 18:24:59 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=486.0
+2026-07-02 18:24:59 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=3 captures=3 vectors=3 elapsed_ms=5.0
+2026-07-02 18:25:00 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=337.7
+2026-07-02 18:25:01 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=348.0
+2026-07-02 18:25:02 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=330.2
+2026-07-02 18:25:03 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=311.7
+2026-07-02 18:25:04 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=319.3
+2026-07-02 18:25:04 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=62.8
+2026-07-02 18:25:05 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=328.1
+2026-07-02 18:25:06 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=339.5
+2026-07-02 18:25:07 INFO [context_assistant.core.capture_audio] Audio transcription completed elapsed_ms=427.0
+2026-07-02 18:25:07 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=352.5
+2026-07-02 18:25:08 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=318.7
+2026-07-02 18:25:09 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=369.7
+2026-07-02 18:25:10 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=316.9
+2026-07-02 18:25:11 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=364.9
+2026-07-02 18:25:12 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=371.3
+2026-07-02 18:25:13 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=357.1
+2026-07-02 18:25:14 WARNING [context_assistant.core.capture_audio] Audio queue full; dropping oldest audio chunk
+2026-07-02 18:25:14 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=324.1
+2026-07-02 18:25:15 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=364.1
+2026-07-02 18:25:16 INFO [context_assistant.__main__] Capture persisted source=audio sqlite_ms=2.9 enqueue_ms=0.6 pending=1
+2026-07-02 18:25:17 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=392.9
+2026-07-02 18:25:17 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=4.9
+2026-07-02 18:25:17 INFO [context_assistant.core.capture_audio] Audio transcription completed elapsed_ms=414.8
+2026-07-02 18:25:18 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=335.9
+2026-07-02 18:25:19 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=2.7 enqueue_ms=1.0 pending=1
+2026-07-02 18:25:19 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=447.2
+2026-07-02 18:25:20 INFO [context_assistant.core.session_store] Session saved
+2026-07-02 18:25:20 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.1 enqueue_ms=0.7 pending=2
+2026-07-02 18:25:20 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=394.9
+2026-07-02 18:25:20 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=2 captures=2 vectors=2 elapsed_ms=4.0
+2026-07-02 18:25:21 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.7 enqueue_ms=0.8 pending=1
+2026-07-02 18:25:21 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=389.6
+2026-07-02 18:25:22 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.2 enqueue_ms=1.0 pending=2
+2026-07-02 18:25:22 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=358.0
+2026-07-02 18:25:23 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=2 captures=2 vectors=2 elapsed_ms=5.6
+2026-07-02 18:25:23 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=336.4
+2026-07-02 18:25:24 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=355.4
+2026-07-02 18:25:25 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=314.6
+2026-07-02 18:25:26 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=324.2
+2026-07-02 18:25:27 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=365.6
+2026-07-02 18:25:28 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=408.2
+2026-07-02 18:25:28 INFO [context_assistant.core.capture_audio] Audio transcription completed elapsed_ms=476.9
+2026-07-02 18:25:29 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=340.8
+2026-07-02 18:25:30 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=321.9
+2026-07-02 18:25:31 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=351.9
+2026-07-02 18:25:32 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=64.0
+2026-07-02 18:25:33 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=60.4
+2026-07-02 18:25:33 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=61.3
+2026-07-02 18:25:34 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=61.3
+2026-07-02 18:25:35 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=384.7
+2026-07-02 18:25:35 WARNING [context_assistant.core.capture_audio] Audio queue full; dropping oldest audio chunk
+2026-07-02 18:25:36 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=60.6
+2026-07-02 18:25:37 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=60.7
+2026-07-02 18:25:37 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=73.2
+2026-07-02 18:25:38 INFO [context_assistant.core.capture_audio] Audio transcription completed elapsed_ms=479.2
+2026-07-02 18:25:38 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.7 enqueue_ms=0.7 pending=1
+2026-07-02 18:25:38 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=435.9
+2026-07-02 18:25:39 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=5.2
+2026-07-02 18:25:39 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=365.6
+2026-07-02 18:25:40 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=367.9
+2026-07-02 18:25:42 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=378.2
+2026-07-02 18:25:43 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=2.2 enqueue_ms=0.9 pending=1
+2026-07-02 18:25:43 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=393.3
+2026-07-02 18:25:43 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=5.1
+2026-07-02 18:25:44 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.9 enqueue_ms=0.8 pending=1
+2026-07-02 18:25:44 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=366.1
+2026-07-02 18:25:45 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=2.4 enqueue_ms=1.9 pending=2
+2026-07-02 18:25:45 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=405.9
+2026-07-02 18:25:46 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.2 enqueue_ms=0.8 pending=3
+2026-07-02 18:25:46 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=410.0
+2026-07-02 18:25:46 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=3 captures=3 vectors=3 elapsed_ms=7.3
+2026-07-02 18:25:47 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=355.1
+2026-07-02 18:25:48 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=543.3
+2026-07-02 18:25:48 INFO [context_assistant.core.capture_audio] Audio transcription completed elapsed_ms=442.3
+2026-07-02 18:25:49 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=2.0 enqueue_ms=0.9 pending=1
+2026-07-02 18:25:49 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=505.1
+2026-07-02 18:25:50 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=42.4
+2026-07-02 18:25:50 INFO [context_assistant.core.session_store] Session saved
+2026-07-02 18:25:50 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.4 enqueue_ms=0.8 pending=1
+2026-07-02 18:25:50 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=417.1
+2026-07-02 18:25:51 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=2.1 enqueue_ms=0.9 pending=2
+2026-07-02 18:25:51 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=392.9
+2026-07-02 18:25:52 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=333.8
+2026-07-02 18:25:53 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=2 captures=2 vectors=2 elapsed_ms=6.1
+2026-07-02 18:25:53 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=2.0 enqueue_ms=0.8 pending=1
+2026-07-02 18:25:53 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=396.7
+2026-07-02 18:25:55 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=410.1
+2026-07-02 18:25:56 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=400.2
+2026-07-02 18:25:56 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=5.4
+2026-07-02 18:25:57 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=330.3
+2026-07-02 18:25:57 WARNING [context_assistant.core.capture_audio] Audio queue full; dropping oldest audio chunk
+2026-07-02 18:25:58 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=324.0
+2026-07-02 18:25:58 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=61.0
+2026-07-02 18:25:59 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=367.9
+2026-07-02 18:25:59 INFO [context_assistant.core.capture_audio] Audio transcription completed elapsed_ms=461.6
+2026-07-02 18:26:01 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=415.8
+2026-07-02 18:26:02 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=345.2
+2026-07-02 18:26:03 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=2.4 enqueue_ms=1.9 pending=1
+2026-07-02 18:26:03 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=513.0
+2026-07-02 18:26:03 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=4.7
+2026-07-02 18:26:04 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.4 enqueue_ms=0.9 pending=1
+2026-07-02 18:26:04 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=393.1
+2026-07-02 18:26:05 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.8 enqueue_ms=1.0 pending=2
+2026-07-02 18:26:05 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=360.6
+2026-07-02 18:26:06 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.4 enqueue_ms=0.7 pending=3
+2026-07-02 18:26:06 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=366.1
+2026-07-02 18:26:06 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=3 captures=3 vectors=3 elapsed_ms=4.7
+2026-07-02 18:26:07 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.2 enqueue_ms=1.0 pending=1
+2026-07-02 18:26:07 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=482.2
+2026-07-02 18:26:08 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.3 enqueue_ms=0.9 pending=2
+2026-07-02 18:26:08 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=380.8
+2026-07-02 18:26:09 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=2 captures=2 vectors=2 elapsed_ms=4.5
+2026-07-02 18:26:09 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=381.6
+2026-07-02 18:26:10 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.5 enqueue_ms=0.5 pending=1
+2026-07-02 18:26:10 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=581.7
+2026-07-02 18:26:11 INFO [context_assistant.core.capture_audio] Audio transcription completed elapsed_ms=474.3
+2026-07-02 18:26:12 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=526.0
+2026-07-02 18:26:12 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=4.2
+2026-07-02 18:26:12 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=65.5
+2026-07-02 18:26:13 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=65.2
+2026-07-02 18:26:14 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=80.4
+2026-07-02 18:26:15 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=63.6
+2026-07-02 18:26:15 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=62.0
+2026-07-02 18:26:16 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=64.1
+2026-07-02 18:26:17 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=63.2
+2026-07-02 18:26:18 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=61.5
+2026-07-02 18:26:18 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=63.5
+2026-07-02 18:26:19 WARNING [context_assistant.core.capture_audio] Audio queue full; dropping oldest audio chunk
+2026-07-02 18:26:19 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=65.7
+2026-07-02 18:26:20 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=60.7
+2026-07-02 18:26:21 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=61.9
+2026-07-02 18:26:21 INFO [context_assistant.core.capture_audio] Audio transcription completed elapsed_ms=407.5
+2026-07-02 18:26:22 INFO [context_assistant.core.session_store] Session saved
+2026-07-02 18:26:22 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=3.5 enqueue_ms=0.7 pending=1
+2026-07-02 18:26:22 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=750.7
+2026-07-02 18:26:22 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=4.2
+2026-07-02 18:26:23 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.3 enqueue_ms=1.3 pending=1
+2026-07-02 18:26:23 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=317.8
+2026-07-02 18:26:24 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.6 enqueue_ms=0.9 pending=2
+2026-07-02 18:26:24 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=608.6
+2026-07-02 18:26:25 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=61.9
+2026-07-02 18:26:25 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=2 captures=2 vectors=2 elapsed_ms=5.0
+2026-07-02 18:26:26 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=59.2
+2026-07-02 18:26:27 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.7 enqueue_ms=0.9 pending=1
+2026-07-02 18:26:27 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=389.9
+2026-07-02 18:26:28 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=4.6
+2026-07-02 18:26:28 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.8 enqueue_ms=0.7 pending=1
+2026-07-02 18:26:28 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=616.2
+2026-07-02 18:26:29 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=57.3
+2026-07-02 18:26:30 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=57.5
+2026-07-02 18:26:30 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=59.7
+2026-07-02 18:26:31 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=97.3
+2026-07-02 18:26:31 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=4.0
+2026-07-02 18:26:31 INFO [context_assistant.core.capture_audio] Audio transcription completed elapsed_ms=390.0
+2026-07-02 18:26:32 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=61.0
+2026-07-02 18:26:32 INFO [context_assistant.core.capture_audio] Audio transcription completed elapsed_ms=374.7
+2026-07-02 18:26:33 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=56.5
+2026-07-02 18:26:33 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=60.0
+2026-07-02 18:26:34 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=60.0
+2026-07-02 18:26:35 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=68.0
+2026-07-02 18:26:35 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=57.5
+2026-07-02 18:26:36 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=59.9
+2026-07-02 18:26:37 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=60.4
+2026-07-02 18:26:38 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=61.4
+2026-07-02 18:26:38 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=64.5
+2026-07-02 18:26:39 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=58.8
+2026-07-02 18:26:40 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=62.4
+2026-07-02 18:26:41 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=61.6
+2026-07-02 18:26:41 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=67.0
+2026-07-02 18:26:42 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=62.8
+2026-07-02 18:26:43 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=61.8
+2026-07-02 18:26:43 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=60.3
+2026-07-02 18:26:44 INFO [context_assistant.core.capture_audio] Audio transcription completed elapsed_ms=439.1
+2026-07-02 18:26:44 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=54.8
+2026-07-02 18:26:45 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=68.1
+2026-07-02 18:26:46 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=63.2
+2026-07-02 18:26:46 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=61.3
+2026-07-02 18:26:47 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=62.2
+2026-07-02 18:26:48 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=61.4
+2026-07-02 18:26:48 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=61.3
+2026-07-02 18:26:49 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=63.6
+2026-07-02 18:26:50 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=60.3
+2026-07-02 18:26:51 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=64.5
+2026-07-02 18:26:51 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=61.0
+2026-07-02 18:26:52 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=62.8
+2026-07-02 18:26:53 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=63.4
+2026-07-02 18:26:53 INFO [context_assistant.core.capture_audio] Audio transcription completed elapsed_ms=387.5
+2026-07-02 18:26:54 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=60.3
+2026-07-02 18:26:54 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=60.9
+2026-07-02 18:26:55 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=62.1
+2026-07-02 18:26:56 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=60.0
+2026-07-02 18:26:56 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=59.7
+2026-07-02 18:26:57 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=63.0
+2026-07-02 18:26:58 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=61.9
+2026-07-02 18:26:59 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=59.3
+2026-07-02 18:26:59 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=63.8
+2026-07-02 18:27:00 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=60.5
+2026-07-02 18:27:01 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=62.1
+2026-07-02 18:27:01 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=60.8
+2026-07-02 18:27:02 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=72.0
+2026-07-02 18:27:02 INFO [context_assistant.core.capture_audio] Audio transcription completed elapsed_ms=363.3
+2026-07-02 18:27:03 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=65.7
+2026-07-02 18:27:10 WARNING [context_assistant.core.capture_audio] Audio queue full; dropping oldest audio chunk
+2026-07-02 18:27:14 INFO [context_assistant.__main__] Capture stop session_id=20260702_182310_14afbe
+2026-07-02 18:27:14 INFO [context_assistant.core.session_store] Session saved
+2026-07-02 18:28:04 INFO [context_assistant.core.llm_client] LLM request start provider=deepseek model=deepseek-v4-flash endpoint=chat
+2026-07-02 18:28:25 INFO [context_assistant.core.llm_client] LLM request end provider=deepseek model=deepseek-v4-flash elapsed_ms=20754.9
+2026-07-02 18:29:10 INFO [context_assistant.core.retriever] Retrieval completed status=using hybrid retrieval elapsed_ms=8.7
+2026-07-02 18:29:10 INFO [context_assistant.core.llm_client] LLM request start provider=deepseek model=deepseek-v4-flash endpoint=chat
+2026-07-02 18:29:13 INFO [context_assistant.core.llm_client] LLM request end provider=deepseek model=deepseek-v4-flash elapsed_ms=2868.5
+2026-07-02 18:30:48 INFO [context_assistant.core.retriever] Retrieval completed status=using hybrid retrieval elapsed_ms=6.1
+2026-07-02 18:30:48 INFO [context_assistant.core.llm_client] LLM request start provider=deepseek model=deepseek-v4-flash endpoint=chat
+2026-07-02 18:30:55 INFO [context_assistant.core.llm_client] LLM request end provider=deepseek model=deepseek-v4-flash elapsed_ms=7018.7
+2026-07-02 18:33:05 INFO [context_assistant.core.session_store] Session saved
+2026-07-02 18:33:05 INFO [context_assistant.__main__] Capture start session_id=20260702_183305_86a2ac
+2026-07-02 18:33:05 INFO [context_assistant.core.capture_audio] Audio capture start
+2026-07-02 18:33:05 INFO [context_assistant.core.capture_screen] Screen OCR capture start
+2026-07-02 18:33:05 WARNING [context_assistant.core.capture_screen] OCR language missing (chi_sim); falling back to eng
+2026-07-02 18:33:07 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.5 enqueue_ms=0.5 pending=1
+2026-07-02 18:33:07 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=1335.8
+2026-07-02 18:33:07 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=4.5
+2026-07-02 18:33:07 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=58.8
+2026-07-02 18:33:08 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=56.3
+2026-07-02 18:33:09 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=53.1
+2026-07-02 18:33:11 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.6 enqueue_ms=0.7 pending=1
+2026-07-02 18:33:11 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=1240.7
+2026-07-02 18:33:11 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=4.1
+2026-07-02 18:33:12 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.8 enqueue_ms=0.7 pending=1
+2026-07-02 18:33:12 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=382.0
+2026-07-02 18:33:12 INFO [context_assistant.core.capture_audio] Loading Whisper model in background
+2026-07-02 18:33:13 INFO [context_assistant.core.capture_audio] Whisper model loaded elapsed_ms=878.4
+2026-07-02 18:33:14 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.8 enqueue_ms=1.3 pending=2
+2026-07-02 18:33:14 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=1143.7
+2026-07-02 18:33:14 INFO [context_assistant.core.capture_audio] Audio transcription completed elapsed_ms=510.2
+2026-07-02 18:33:14 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=2 captures=2 vectors=2 elapsed_ms=4.3
+2026-07-02 18:33:15 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.2 enqueue_ms=0.6 pending=1
+2026-07-02 18:33:15 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=524.2
+2026-07-02 18:33:16 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.2 enqueue_ms=0.7 pending=2
+2026-07-02 18:33:16 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=366.4
+2026-07-02 18:33:17 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=2 captures=2 vectors=2 elapsed_ms=4.7
+2026-07-02 18:33:17 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.6 enqueue_ms=0.6 pending=1
+2026-07-02 18:33:17 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=372.5
+2026-07-02 18:33:18 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.3 enqueue_ms=0.6 pending=2
+2026-07-02 18:33:18 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=390.2
+2026-07-02 18:33:19 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.1 enqueue_ms=0.6 pending=3
+2026-07-02 18:33:19 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=382.6
+2026-07-02 18:33:20 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=83.4
+2026-07-02 18:33:20 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=3 captures=3 vectors=3 elapsed_ms=7.5
+2026-07-02 18:33:20 INFO [context_assistant.core.capture_audio] Audio transcription completed elapsed_ms=484.0
+2026-07-02 18:33:21 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=205.6
+2026-07-02 18:33:21 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=59.9
+2026-07-02 18:33:22 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=63.0
+2026-07-02 18:33:23 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=64.1
+2026-07-02 18:33:24 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=244.1
+2026-07-02 18:33:25 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=333.3
+2026-07-02 18:33:26 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=313.6
+2026-07-02 18:33:27 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=331.1
+2026-07-02 18:33:28 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=337.2
+2026-07-02 18:33:29 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=305.0
+2026-07-02 18:33:30 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=335.9
+2026-07-02 18:33:31 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.6 enqueue_ms=0.7 pending=1
+2026-07-02 18:33:31 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=343.8
+2026-07-02 18:33:31 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=49.9
+2026-07-02 18:33:31 INFO [context_assistant.core.capture_audio] Audio transcription completed elapsed_ms=475.6
+2026-07-02 18:33:32 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.1 enqueue_ms=0.9 pending=1
+2026-07-02 18:33:32 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=426.7
+2026-07-02 18:33:33 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.3 enqueue_ms=0.8 pending=2
+2026-07-02 18:33:33 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=356.2
+2026-07-02 18:33:34 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.3 enqueue_ms=0.8 pending=3
+2026-07-02 18:33:34 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=348.3
+2026-07-02 18:33:34 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=3 captures=3 vectors=3 elapsed_ms=4.8
+2026-07-02 18:33:35 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.3 enqueue_ms=0.9 pending=1
+2026-07-02 18:33:35 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=322.1
+2026-07-02 18:33:36 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=351.7
+2026-07-02 18:33:37 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=4.8
+2026-07-02 18:33:37 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=415.9
+2026-07-02 18:33:38 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=333.4
+2026-07-02 18:33:39 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=327.9
+2026-07-02 18:33:40 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=319.5
+2026-07-02 18:33:41 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=324.9
+2026-07-02 18:33:42 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=59.5
+2026-07-02 18:33:42 INFO [context_assistant.core.capture_audio] Audio transcription completed elapsed_ms=407.4
+2026-07-02 18:33:43 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=328.7
+2026-07-02 18:33:44 INFO [context_assistant.core.session_store] Session saved
+2026-07-02 18:33:44 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.3 enqueue_ms=0.7 pending=1
+2026-07-02 18:33:44 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=341.7
+2026-07-02 18:33:44 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=4.9
+2026-07-02 18:33:45 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=347.9
+2026-07-02 18:33:46 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=324.5
+2026-07-02 18:33:47 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=301.5
+2026-07-02 18:33:48 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=310.9
+2026-07-02 18:33:49 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=317.3
+2026-07-02 18:33:50 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=307.7
+2026-07-02 18:33:51 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=326.9
+2026-07-02 18:33:52 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=347.4
+2026-07-02 18:33:53 INFO [context_assistant.core.capture_audio] Audio transcription completed elapsed_ms=407.5
+2026-07-02 18:33:53 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=307.9
+2026-07-02 18:33:54 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=347.5
+2026-07-02 18:33:55 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=347.5
+2026-07-02 18:33:56 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=344.5
+2026-07-02 18:33:57 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=309.5
+2026-07-02 18:33:58 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.6 enqueue_ms=1.5 pending=1
+2026-07-02 18:33:58 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=388.3
+2026-07-02 18:33:58 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=4.8
+2026-07-02 18:33:59 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.3 enqueue_ms=0.8 pending=1
+2026-07-02 18:33:59 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=440.7
+2026-07-02 18:34:00 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.5 enqueue_ms=0.6 pending=2
+2026-07-02 18:34:00 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=415.0
+2026-07-02 18:34:01 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=2 captures=2 vectors=2 elapsed_ms=7.1
+2026-07-02 18:34:01 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.2 enqueue_ms=0.8 pending=1
+2026-07-02 18:34:01 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=368.6
+2026-07-02 18:34:02 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=364.0
+2026-07-02 18:34:03 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=64.7
+2026-07-02 18:34:03 INFO [context_assistant.core.capture_audio] Audio transcription completed elapsed_ms=397.9
+2026-07-02 18:34:04 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=433.2
+2026-07-02 18:34:04 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=4.3
+2026-07-02 18:34:05 INFO [context_assistant.core.capture_audio] Audio transcription completed elapsed_ms=410.0
+2026-07-02 18:34:05 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=2.2 enqueue_ms=0.7 pending=1
+2026-07-02 18:34:05 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=429.1
+2026-07-02 18:34:06 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.4 enqueue_ms=1.0 pending=2
+2026-07-02 18:34:06 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=373.5
+2026-07-02 18:34:07 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=2 captures=2 vectors=2 elapsed_ms=5.5
+2026-07-02 18:34:07 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.2 enqueue_ms=0.7 pending=1
+2026-07-02 18:34:07 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=553.6
+2026-07-02 18:34:08 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.4 enqueue_ms=0.8 pending=2
+2026-07-02 18:34:08 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=385.7
+2026-07-02 18:34:10 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.1 enqueue_ms=0.7 pending=3
+2026-07-02 18:34:10 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=421.9
+2026-07-02 18:34:10 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=3 captures=3 vectors=3 elapsed_ms=7.0
+2026-07-02 18:34:11 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=0.9 enqueue_ms=0.7 pending=1
+2026-07-02 18:34:11 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=390.8
+2026-07-02 18:34:12 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=307.3
+2026-07-02 18:34:13 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=2.4 enqueue_ms=0.7 pending=2
+2026-07-02 18:34:13 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=391.3
+2026-07-02 18:34:13 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=2 captures=2 vectors=2 elapsed_ms=4.6
+2026-07-02 18:34:14 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=392.8
+2026-07-02 18:34:15 INFO [context_assistant.core.capture_audio] Audio transcription completed elapsed_ms=410.8
+2026-07-02 18:34:16 INFO [context_assistant.core.session_store] Session saved
+2026-07-02 18:34:16 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=0.9 enqueue_ms=0.7 pending=1
+2026-07-02 18:34:16 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=1030.5
+2026-07-02 18:34:16 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=5.0
+2026-07-02 18:34:16 INFO [context_assistant.__main__] Capture stop session_id=20260702_183305_86a2ac
+2026-07-02 18:34:16 INFO [context_assistant.core.session_store] Session saved
+2026-07-02 18:34:17 INFO [context_assistant.core.session_store] Session saved
+2026-07-02 18:34:17 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.7 enqueue_ms=0.7 pending=1
+2026-07-02 18:34:17 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=1274.9
+2026-07-02 18:34:19 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=4.5
+2026-07-02 18:34:24 INFO [context_assistant.core.retriever] Retrieval completed status=using hybrid retrieval elapsed_ms=9.5
+2026-07-02 18:34:24 INFO [context_assistant.core.llm_client] LLM request start provider=deepseek model=deepseek-v4-flash endpoint=chat
+2026-07-02 18:34:31 INFO [context_assistant.core.llm_client] LLM request end provider=deepseek model=deepseek-v4-flash elapsed_ms=6781.3
+2026-07-02 18:45:24 INFO [context_assistant.core.session_store] Session saved
+2026-07-02 18:45:24 INFO [context_assistant.__main__] Capture start session_id=20260702_184524_e018ea
+2026-07-02 18:45:24 INFO [context_assistant.core.capture_audio] Audio capture start
+2026-07-02 18:45:24 INFO [context_assistant.core.capture_screen] Screen OCR capture start
+2026-07-02 18:45:24 WARNING [context_assistant.core.capture_screen] OCR language missing (chi_sim); falling back to eng
+2026-07-02 18:45:26 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=2.1 enqueue_ms=0.7 pending=1
+2026-07-02 18:45:26 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=1785.9
+2026-07-02 18:45:27 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=6.4
+2026-07-02 18:45:27 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.4 enqueue_ms=0.7 pending=1
+2026-07-02 18:45:27 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=409.4
+2026-07-02 18:45:28 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=0.9 enqueue_ms=0.6 pending=2
+2026-07-02 18:45:28 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=329.8
+2026-07-02 18:45:29 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=57.9
+2026-07-02 18:45:30 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=60.3
+2026-07-02 18:45:30 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=2 captures=2 vectors=2 elapsed_ms=9.0
+2026-07-02 18:45:30 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=61.9
+2026-07-02 18:45:31 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=62.6
+2026-07-02 18:45:31 INFO [context_assistant.core.capture_audio] Loading Whisper model in background
+2026-07-02 18:45:32 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=64.4
+2026-07-02 18:45:32 INFO [context_assistant.core.capture_audio] Whisper model loaded elapsed_ms=918.2
+2026-07-02 18:45:32 INFO [context_assistant.core.capture_audio] Audio transcription completed elapsed_ms=502.9
+2026-07-02 18:45:32 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=77.6
+2026-07-02 18:45:33 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=55.8
+2026-07-02 18:45:34 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=53.4
+2026-07-02 18:45:35 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=58.5
+2026-07-02 18:45:35 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=57.8
+2026-07-02 18:45:36 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=56.6
+2026-07-02 18:45:37 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=55.6
+2026-07-02 18:45:37 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=56.2
+2026-07-02 18:45:38 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=57.1
+2026-07-02 18:45:39 INFO [context_assistant.core.capture_audio] Audio transcription completed elapsed_ms=500.0
+2026-07-02 18:45:39 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=60.2
+2026-07-02 18:45:40 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=54.8
+2026-07-02 18:45:40 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=63.2
+2026-07-02 18:45:41 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=63.8
+2026-07-02 18:45:42 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=65.2
+2026-07-02 18:45:43 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=62.4
+2026-07-02 18:45:43 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=59.2
+2026-07-02 18:45:44 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=60.5
+2026-07-02 18:45:45 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=64.2
+2026-07-02 18:45:45 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=58.4
+2026-07-02 18:45:46 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=64.0
+2026-07-02 18:45:46 INFO [context_assistant.core.capture_audio] Audio transcription completed elapsed_ms=449.9
+2026-07-02 18:45:47 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=61.7
+2026-07-02 18:45:48 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=62.0
+2026-07-02 18:45:48 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=216.4
+2026-07-02 18:45:49 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=51.7
+2026-07-02 18:45:50 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=54.5
+2026-07-02 18:45:51 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=67.6
+2026-07-02 18:45:52 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=2.0 enqueue_ms=0.7 pending=1
+2026-07-02 18:45:52 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=879.5
+2026-07-02 18:45:53 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=63.3
+2026-07-02 18:45:53 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=6.6
+2026-07-02 18:45:54 INFO [context_assistant.core.capture_audio] Audio transcription completed elapsed_ms=528.0
+2026-07-02 18:45:54 INFO [context_assistant.core.session_store] Session saved
+2026-07-02 18:45:54 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.0 enqueue_ms=0.6 pending=1
+2026-07-02 18:45:54 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=755.5
+2026-07-02 18:45:55 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=55.5
+2026-07-02 18:45:56 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=63.6
+2026-07-02 18:45:56 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=7.7
+2026-07-02 18:45:56 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=61.2
+2026-07-02 18:45:58 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.9 enqueue_ms=0.6 pending=1
+2026-07-02 18:45:59 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=1401.3
+2026-07-02 18:45:59 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=7.5
+2026-07-02 18:46:00 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=2.3 enqueue_ms=0.7 pending=1
+2026-07-02 18:46:00 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=1224.0
+2026-07-02 18:46:01 INFO [context_assistant.core.capture_audio] Audio transcription completed elapsed_ms=404.3
+2026-07-02 18:46:02 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=3.6
+2026-07-02 18:46:02 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=1252.7
+2026-07-02 18:46:03 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=55.6
+2026-07-02 18:46:04 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=64.1
+2026-07-02 18:46:05 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=60.9
+2026-07-02 18:46:06 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.5 enqueue_ms=0.5 pending=1
+2026-07-02 18:46:06 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=688.2
+2026-07-02 18:46:06 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=7.2
+2026-07-02 18:46:08 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.6 enqueue_ms=0.5 pending=1
+2026-07-02 18:46:08 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=1068.0
+2026-07-02 18:46:08 INFO [context_assistant.core.capture_audio] Audio transcription completed elapsed_ms=500.7
+2026-07-02 18:46:09 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.0 enqueue_ms=0.6 pending=2
+2026-07-02 18:46:09 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=653.4
+2026-07-02 18:46:09 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=2 captures=2 vectors=2 elapsed_ms=4.5
+2026-07-02 18:46:10 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.0 enqueue_ms=0.7 pending=1
+2026-07-02 18:46:10 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=476.1
+2026-07-02 18:46:11 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=53.0
+2026-07-02 18:46:12 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=62.8
+2026-07-02 18:46:12 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=4.2
+2026-07-02 18:46:13 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.0 enqueue_ms=0.7 pending=1
+2026-07-02 18:46:13 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=690.7
+2026-07-02 18:46:14 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=64.3
+2026-07-02 18:46:15 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.2 enqueue_ms=0.7 pending=2
+2026-07-02 18:46:15 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=614.6
+2026-07-02 18:46:15 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=2 captures=2 vectors=2 elapsed_ms=9.3
+2026-07-02 18:46:16 INFO [context_assistant.core.capture_audio] Audio transcription completed elapsed_ms=462.8
+2026-07-02 18:46:17 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.6 enqueue_ms=0.6 pending=1
+2026-07-02 18:46:17 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=1141.7
+2026-07-02 18:46:18 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.6 enqueue_ms=0.8 pending=2
+2026-07-02 18:46:18 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=734.0
+2026-07-02 18:46:18 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=2 captures=2 vectors=2 elapsed_ms=4.5
+2026-07-02 18:46:19 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=55.8
+2026-07-02 18:46:20 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=55.2
+2026-07-02 18:46:20 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=55.5
+2026-07-02 18:46:21 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=55.2
+2026-07-02 18:46:22 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.8 enqueue_ms=0.6 pending=1
+2026-07-02 18:46:22 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=724.9
+2026-07-02 18:46:23 INFO [context_assistant.core.capture_audio] Audio transcription completed elapsed_ms=481.2
+2026-07-02 18:46:23 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=36.8
+2026-07-02 18:46:24 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=2.0 enqueue_ms=0.6 pending=1
+2026-07-02 18:46:24 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=771.4
+2026-07-02 18:46:25 INFO [context_assistant.core.session_store] Session saved
+2026-07-02 18:46:25 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.0 enqueue_ms=0.6 pending=2
+2026-07-02 18:46:25 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=768.0
+2026-07-02 18:46:26 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=2 captures=2 vectors=2 elapsed_ms=4.2
+2026-07-02 18:46:27 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.1 enqueue_ms=0.7 pending=1
+2026-07-02 18:46:27 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=806.8
+2026-07-02 18:46:28 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=813.9
+2026-07-02 18:46:29 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=53.4
+2026-07-02 18:46:29 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=8.0
+2026-07-02 18:46:30 INFO [context_assistant.core.capture_audio] Audio transcription completed elapsed_ms=428.0
+2026-07-02 18:46:31 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.4 enqueue_ms=0.5 pending=1
+2026-07-02 18:46:31 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=951.1
+2026-07-02 18:46:31 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=55.9
+2026-07-02 18:46:32 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=56.3
+2026-07-02 18:46:32 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=8.9
+2026-07-02 18:46:33 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=54.4
+2026-07-02 18:46:34 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.4 enqueue_ms=0.6 pending=1
+2026-07-02 18:46:34 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=877.1
+2026-07-02 18:46:35 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=8.8
+2026-07-02 18:46:36 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.0 enqueue_ms=0.5 pending=1
+2026-07-02 18:46:36 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=1180.9
+2026-07-02 18:46:38 INFO [context_assistant.core.capture_audio] Audio transcription completed elapsed_ms=424.9
+2026-07-02 18:46:38 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=2.4 enqueue_ms=0.9 pending=2
+2026-07-02 18:46:38 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=1296.6
+2026-07-02 18:46:38 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=2 captures=2 vectors=2 elapsed_ms=4.4
+2026-07-02 18:46:40 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=0.9 enqueue_ms=0.5 pending=1
+2026-07-02 18:46:40 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=1097.8
+2026-07-02 18:46:41 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.1 enqueue_ms=0.6 pending=2
+2026-07-02 18:46:41 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=665.2
+2026-07-02 18:46:41 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=2 captures=2 vectors=2 elapsed_ms=4.4
+2026-07-02 18:46:43 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.3 enqueue_ms=0.9 pending=1
+2026-07-02 18:46:43 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=840.3
+2026-07-02 18:46:44 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=4.0
+2026-07-02 18:46:44 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.3 enqueue_ms=0.6 pending=1
+2026-07-02 18:46:44 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=1215.5
+2026-07-02 18:46:45 INFO [context_assistant.core.capture_audio] Audio transcription completed elapsed_ms=519.8
+2026-07-02 18:46:47 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.1 enqueue_ms=0.5 pending=2
+2026-07-02 18:46:47 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=1851.6
+2026-07-02 18:46:47 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=2 captures=2 vectors=2 elapsed_ms=8.4
+2026-07-02 18:46:49 INFO [context_assistant.__main__] Capture persisted source=screen sqlite_ms=1.3 enqueue_ms=0.6 pending=1
+2026-07-02 18:46:49 INFO [context_assistant.core.capture_screen] OCR capture cycle elapsed_ms=1769.0
+2026-07-02 18:46:50 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=56.0
+2026-07-02 18:46:50 INFO [context_assistant.core.indexing_worker] Batch indexing completed jobs=1 captures=1 vectors=1 elapsed_ms=4.5
+2026-07-02 18:46:51 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=52.4
+2026-07-02 18:46:52 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=61.2
+2026-07-02 18:46:52 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=55.3
+2026-07-02 18:46:52 INFO [context_assistant.core.capture_audio] Audio transcription completed elapsed_ms=420.9
+2026-07-02 18:46:53 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=60.5
+2026-07-02 18:46:54 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=62.2
+2026-07-02 18:46:54 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=58.3
+2026-07-02 18:46:55 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=55.5
+2026-07-02 18:46:56 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=57.9
+2026-07-02 18:46:57 INFO [context_assistant.core.capture_screen] Screen frame skipped as near-duplicate elapsed_ms=58.7
+2026-07-02 18:46:57 INFO [context_assistant.__main__] Capture stop session_id=20260702_184524_e018ea
+2026-07-02 18:46:57 INFO [context_assistant.core.session_store] Session saved
+2026-07-02 18:47:06 INFO [context_assistant.core.retriever] Retrieval completed status=using hybrid retrieval elapsed_ms=8.7
+2026-07-02 18:47:06 INFO [context_assistant.core.llm_client] LLM request start provider=deepseek model=deepseek-v4-flash endpoint=chat
+2026-07-02 18:47:12 INFO [context_assistant.core.llm_client] LLM request end provider=deepseek model=deepseek-v4-flash elapsed_ms=6039.0
+2026-07-02 21:17:06 INFO [context_assistant.core.indexing_worker] Indexing worker stopped
