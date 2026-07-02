@@ -1,0 +1,16 @@
+{
+  "session_id": "20260702_171936_718333",
+  "started_at": "2026-07-02T17:19:36",
+  "ended_at": "2026-07-02T17:19:37",
+  "duration_seconds": 1,
+  "app_version": "0.2.0",
+  "llm_provider": "deepseek",
+  "llm_model": "deepseek-v4-flash",
+  "capture_counts": {
+    "audio": 0,
+    "screen": 0
+  },
+  "running": false,
+  "max_duration_seconds": 7200,
+  "entries": []
+}

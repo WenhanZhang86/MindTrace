@@ -1,0 +1,16 @@
+{
+  "max_duration_seconds": 7200,
+  "audio_chunk_seconds": 7,
+  "ocr_interval_seconds": 8,
+  "screenshot_interval_seconds": 0.5,
+  "sample_rate": 16000,
+  "input_device": null,
+  "ocr_scale_factor": 1.0,
+  "frame_diff_threshold": 0.02,
+  "subtitle_crop_top_ratio": 0.55,
+  "subtitle_crop_bottom_ratio": 0.92,
+  "context_limit_chars": 12000,
+  "llm": {
+    "timeout_seconds": 30
+  }
+}

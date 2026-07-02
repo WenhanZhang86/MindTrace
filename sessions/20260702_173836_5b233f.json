@@ -1,0 +1,72 @@
+{
+  "session_id": "20260702_173836_5b233f",
+  "started_at": "2026-07-02T17:38:36",
+  "ended_at": "2026-07-02T17:40:16",
+  "duration_seconds": 99,
+  "app_version": "0.2.0",
+  "llm_provider": "deepseek",
+  "llm_model": "deepseek-v4-flash",
+  "capture_counts": {
+    "audio": 1,
+    "screen": 10
+  },
+  "running": false,
+  "max_duration_seconds": 7200,
+  "entries": [
+    {
+      "timestamp": "2026-07-02T17:38:40",
+      "source": "screen",
+      "text": "Mindtrace Ask Across Memory Al memory assistant Ask about this session or anything Mindtrace has indexed. Recording 00:00:01 Start capture Mindtrace N Start capture Ask a question below, or start capture from the sidebar. Stop capture Pause Summarize Delete session Export Markdown Export PDF Excluded apps 1Password, Keychain Access Apply privacy Search memory Search Import old sessions Activity [17:28:28] Loaded config.json [17:28:28] Loaded LLM provider: deepseek (deepseek-v4-flash) [17:28:28] Ready. Configure permissions and Click Start. [17:38:36] Session started: 20260702_173836_5b233f [17:38:37] OCR language missing (chi_sim); falling back to eng. Ask"
+    },
+    {
+      "timestamp": "2026-07-02T17:38:49",
+      "source": "screen",
+      "text": "Stanford CS229: Machine Learning Course, Lecture 1 - Andrew Ng (Autumn 2018) 2 Connected AirPods www.youtube.com -— To exit full screen, press _— ? -_ | & : « =] = SO BD + — rr _, ___ __ il © 4:01 / 1:15:19 Introduction > HE:"
+    },
+    {
+      "timestamp": "2026-07-02T17:39:08",
+      "source": "screen",
+      "text": "\\ i PZ \\ | a —_ y zz ONLINE"
+    },
+    {
+      "timestamp": "2026-07-02T17:39:18",
+      "source": "screen",
+      "text": "oe’ } _ —_——ae ———_—“—COCC ONLINE"
+    },
+    {
+      "timestamp": "2026-07-02T17:39:27",
+      "source": "screen",
+      "text": "Stanford CS229: Machine Learning Course, Lecture 1 - Andrew Ng (Autumn 2018) * a Oh ONLINE a ~~ bo Bm + = _— ee ee il 4:38 / 1:15:19 Introduction > Ho ©"
+    },
+    {
+      "timestamp": "2026-07-02T17:39:37",
+      "source": "screen",
+      "text": "> | J/ ~~ per ¥ ——————E_eT* ONLINE"
+    },
+    {
+      "timestamp": "2026-07-02T17:39:46",
+      "source": "screen",
+      "text": "Stanford CS229: Machine Learning Course, Lecture 1 - Andrew Ng (Autumn 2018) { — -_ a i eeiilibieee - 5OoO BP + —-— oe = il 4:57 / 1:15:19 Introduction > HE: ©"
+    },
+    {
+      "timestamp": "2026-07-02T17:39:56",
+      "source": "screen",
+      "text": "Mindtrace Ask Across Memory Al memory assistant Ask about this session or anything Mindtrace has indexed. Recording 00:01:17 Mindtrace Start c Ask a question below, or start capture from the sidebar. Stop capture EE Biren Pause Summarize Delete session Export Markdown Export PDF Excluded apps 1Password, Keychain Access Apply privacy Search memory Search Import old sessions Activity [screen] Stantord S229: Machine Learning Course, Lecture 1 - Andrew Ng (Autumn 2018) * a Oh ONLINE a ~~ bo Bm +=_— ee ee il 4:38 / 1:15:19 Introdu... [17:39:38] Captured screen: 1. Latest [screen] > | J/ ~~ per ¥ SS E_eT* ONLINE [17:39:47] Captured screen: 1. Latest [screen] Stanford CS229: Machine Learning Course, Lecture 1 - Andrew Ng (Autumn 2018) { — -_ ai eeiilibieee - 5000 BP + Ask —-— oe =il 4:57 / 1:15:19 I..."
+    },
+    {
+      "timestamp": "2026-07-02T17:40:06",
+      "source": "screen",
+      "text": "Mindtrace Ask Across Memory Al memory assistant Ask about this session or anything Mindtrace has indexed. Recording 00:01:28 Mindtrace Start c Ask a question below, or start capture from the sidebar. Stop capture EE Bites Pause Summarize Delete session Export Markdown Export PDF Excluded apps 1Password, Keychain Access Apply privacy Search memory Search Import old sessions Activity —— E_el” ONLINE [screen] > J/ ~~ per ¥ [17:39:47] Captured screen: 1. Latest [screen] Stanford CS229: Machine Learning Course, Lecture 1 - Andrew Ng (Autumn 2018) { — -_ ai eeiilibieee - 5000 BP + —-— oe =il 4:57 / 1:15:19 I... [17:39:57] Captured screen: 1. Latest [screen] Mindtrace Ask Across Memory Al memory assistant Ask about this session or anything Mindtrace has indexed. Recording Ask 00:01:17 Mindtrace Start..."
+    },
+    {
+      "timestamp": "2026-07-02T17:40:08",
+      "source": "audio",
+      "text": "2.8gm 2.8gm 2.8gm 2.8gm 2.8gm 2.8gm"
+    },
+    {
+      "timestamp": "2026-07-02T17:40:17",
+      "source": "screen",
+      "text": "Mindtrace Ask Across Memory Al memory assistant Ask about this session or anything Mindtrace has indexed. Recording 00:01:38 Mindtrace Ask a question below, or start capture from the sidebar. Start capture Stop capture Pause Summarize Delete session Export Markdown Export PDF Excluded apps 1Password, Keychain Access Apply privacy Search memory Search Import old sessions Activity |17:39:57] Captured screen: 1. Latest [screen] Mindtrace Ask Across Memory Al memory assistant Ask about this session or anything Mindtrace has indexed. Recording 00:01:17 Mindtrace Start... [17:40:08] Captured screen: 1. Latest [screen] Mindtrace Ask Across Memory Al memory assistant Ask about this session or anything Mindtrace has indexed. Recording 00:01:28 Mindtrace Start... [17:40:09] Captured audio: 1. Latest [audio] Ask 2.8gm 2.8gm 2.8gm 2.8gm 2.8gm 2.8gm"
+    }
+  ]
+}

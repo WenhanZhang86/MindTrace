@@ -1,0 +1,27 @@
+{
+  "max_duration_seconds": 7200,
+  "audio_chunk_seconds": 7,
+  "ocr_interval_seconds": 8,
+  "screenshot_interval_seconds": 0.5,
+  "sample_rate": 16000,
+  "input_device": null,
+  "min_capture_text_len": 18,
+  "audio_language": null,
+  "ocr_language": "eng+chi_sim",
+  "ocr_tesseract_config": "--psm 11",
+  "ocr_scale_factor": 1.0,
+  "frame_diff_threshold": 0.02,
+  "subtitle_crop_top_ratio": 0.55,
+  "subtitle_crop_bottom_ratio": 0.92,
+  "max_entry_chars": 3000,
+  "context_limit_chars": 12000,
+  "excluded_apps": ["1Password", "Keychain Access"],
+  "llm": {
+    "provider": "openai",
+    "api_key_env": "OPENAI_API_KEY",
+    "base_url": "",
+    "model": "gpt-4o-mini",
+    "endpoint": "responses",
+    "timeout_seconds": 30
+  }
+}

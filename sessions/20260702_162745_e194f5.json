@@ -1,0 +1,47 @@
+{
+  "session_id": "20260702_162745_e194f5",
+  "started_at": "2026-07-02T16:27:45",
+  "ended_at": "2026-07-02T16:28:39",
+  "duration_seconds": 54,
+  "app_version": "0.2.0",
+  "llm_provider": "deepseek",
+  "llm_model": "deepseek-v4-flash",
+  "capture_counts": {
+    "audio": 0,
+    "screen": 6
+  },
+  "running": false,
+  "max_duration_seconds": 7200,
+  "entries": [
+    {
+      "timestamp": "2026-07-02T16:27:50",
+      "source": "screen",
+      "text": "@ python File Edit Window Help 1KB/s —= - °° Q & cm) Thu Jul 2 16:27 10KB/s % OW Om © & o— o— ) Mindtrace Private context memory for your work sessions Running eee | ee | | eee | ee | cd Privacy Controls Excluded apps “Terminal” wants access to control “System Events\". Live Capture Allowing control will provide access to documents and data in [16:26:07] Loaded config.json [16:26:07] \"System Events\", and to perform Loaded LLM provider: deepseek (deepseek-v4-f lash) actions within that app. [16:26:07] Ready. Configure permissions and click Start. [16:27:45] Session started: 20260702_162745_e194f5 [16:27:47] OCR language missing (chi_sim); falling back to eng. Allow Ea Search History Po =a Assistant Output O 5 Medium v YS Oo e_8s Zs, Sy g Sw _ CS w 5) = efi 86608 6B"
+    },
+    {
+      "timestamp": "2026-07-02T16:28:00",
+      "source": "screen",
+      "text": "@ Safari File Edit View Bookmarks Window 77KB/s —_— - ° Q Se Thu Jul2 16:27 History Develop Help Bw 25KB/s % O Dn => eco WH» < > @ shlab.org.cn xX © (4 + @) Stanford CS229: Machine... (C) Coursera | Online Courses... () Introduction to Data Pipeli... Al Learning Resources & G M |Kt438 - wudaodongxiang... M_ Inbox - wzhang10@scu.ed... @ 1:5A LHS S - Coo... U fe) Ga@ogle FRAT E REL Xx id Le Q ch T Al Mode All Videos News Forums More v Tools Ll Images Shopping FeA LE RSS https://www.shlab.org.cn FisA LS eS: Bo FREES T SWRA, BSEATRERAWRE, RALSRAAA ERM iB OE ia SZ i MARA ASS He, EMRE, SHAT, ARRA RIE ... METAR HAIER. MASKADTMSALHEE. ARH. ROB... RF EAN PRALTHELR SERRA LS RENE AS, FP RARE ... ‘Lats HAIER. MASKADTMSALHEE. ARH. ROB... MERA ALBRABTAAA, IRE SRA, BATE ACC ... More results from shlab.org.cn » 0.6 ee BRA https://baike.baidu.com > item Fis A Be Sao 8 PeALTH ELS ePRALS ESN MEAT, HTS SR, SERPNAFRRGBT 4 Amst teE, 20207 7FEHRALEREAS (WAIC) TECH. éen <1"
+    },
+    {
+      "timestamp": "2026-07-02T16:28:10",
+      "source": "screen",
+      "text": "< + f~ » @ discovery-home.intern-ai.org.cn Yea © 2) 4 @) Stanford CS229: Mac (C) Coursera | Online Co (C) Introduction to Data Al Learning Resource M1 1438 - wudaodongx M_ Inbox - wzhang10@s Ge Sn - bSAT He @ #2nse074 & Intern Discovery SARA DF SFR HD SSRAA RRS FoRAILR ZBI Rae SBERSFAM FES DS Ft + NYA Bz Bh rh RH A OK ILS BARMASR, iL FAs 4S ah BARE, IDS ARES Rib QM WIC"
+    },
+    {
+      "timestamp": "2026-07-02T16:28:19",
+      "source": "screen",
+      "text": "@) Stanford CS229:... ™M |b #8 - wudaod... M1. Inbox - wzhang1... @ +4an42a076 | © Coursera | Online... | © Introduction to D... | Al Learning Reso... Ben per."
+    },
+    {
+      "timestamp": "2026-07-02T16:28:28",
+      "source": "screen",
+      "text": "OKB/s —_— - Qs, € Safari File Edit View History Bookmarks Develop Window Help Mw 7 OKB/s f®% DOO HH ® Q e Thu Jul 2 16:28 FD » < > + @ shlab.org.cn Yea © © 4 @ Stanford CS229: Machine... 1) Coursera | Online Courses... jC) Introduction to Data Pipelii... Al Learning Resources & G.... M1 4438 - wudaodongxiang... M1 Inbox - wzhang10@scu.ed... x GB an- Ls leesns"
+    },
+    {
+      "timestamp": "2026-07-02T16:28:39",
+      "source": "screen",
+      "text": "File Edit Window OKB/s {__B —= -_- ° Q > cm) Thu Jul 2 16:28 é ython Help WW ww OKB/s % OOO @6 Context Assistant o— o=— ) Mindtrace Private context memory for your work sessions Running Privacy Controls Live Capture Ask Across Memory 26 [16 07] Loaded config.json [16 26 07] Loaded LLM provider deepseek (deepseek-v4-f lash) [16 26 07] Ready. Configure permissions and click Start [16 27 45] Session started: 20260702 162745 e194f5 [16 27 47] OCR language missing (chi_sim); falling back to eng [16 27 50] Indexing pending: 1 [16: 27: 5@ [screen] @ python File Edit Window Help 1KB/s —= - °° Q & cm) Thu Jul [| 2 16:27 10KB/s % OW Om © & o— o— ) Mindtrace Private context memory for your wo. 1 [16: 28 @@] Indexing pending [16:28:00] [screen] @ Safari File Edit View Bookmarks Window 77KB/s —_— - ° Q Se Search History Thu Jul2 16:27 History Develop Help Bw 25KB/s % 0 Dn => eco WH» < > @ shlab.org [16:28:10] Indexing pending 1 [16:28:10] [screen] < + f~ » @ discovery-home.intern-ai.org.cn Yea © 2) 4 @) Stanford CS229: Mac (C) Coursera | Online Co (C) Introduction to Data Al Learning R [16:28:19] Indexing pending 1 [16:28:19] [screen] @) Stanford CS229 ™M |b #8 - wudaod M1 Inbox - wzhang1 @ +4an42a076 | © Coursera | Online | © Introduction to D | Al Learni [16:28:28] Indexing pending 1 [16:28:28] [screen] OKB/s —_- - Qs, € Safari File Edit View History Bookmarks Assistant Output Develop Window Help Mw 7 OKB/s f®% DOO HH ® Q e Thu Jul 2 16:28 FD» < >+@ shlab Medium v Y 0 eu > Sw _ Lahti © s@e)' |\\8onb08 © - 5) ="
+    }
+  ]
+}

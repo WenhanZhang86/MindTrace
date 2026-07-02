@@ -1,0 +1,67 @@
+{
+  "session_id": "20260702_174413_cc4e25",
+  "started_at": "2026-07-02T17:44:13",
+  "ended_at": "2026-07-02T17:45:29",
+  "duration_seconds": 76,
+  "app_version": "0.2.0",
+  "llm_provider": "deepseek",
+  "llm_model": "deepseek-v4-flash",
+  "capture_counts": {
+    "audio": 1,
+    "screen": 9
+  },
+  "running": false,
+  "max_duration_seconds": 7200,
+  "entries": [
+    {
+      "timestamp": "2026-07-02T17:44:14",
+      "source": "screen",
+      "text": "Mindtrace Ask Across Memory Al memory assistant Ask about this session or anything Mindtrace has indexed. Recording 00:00:00 Mindtrace Start capture Start capture Ask a question below, or start capture from the sidebar. Stop capture Pause Summarize Delete session Export Markdown Export PDF Excluded apps 1Password, Keychain Access Apply privacy Search memory Search Import old sessions Activity [17:42:52] Loaded config.json [17:42:52] Loaded LLM provider: deepseek (deepseek-v4-flash) click Start. [17:42:52] Ready. Configure permissions and [17:44:13] Session started: 20260702_174413_cc4e25 [17:44:13] OCR language missing (chi_sim); falling back to eng. Ask"
+    },
+    {
+      "timestamp": "2026-07-02T17:44:23",
+      "source": "screen",
+      "text": "Stanford CS229: Machine Learning Course, Lecture 1 - Andrew Ng (Autumn 2018) English Click # for settings yt: * 7. a ' —_— iw <— — —t So for now, it might be too complicated. —— . — Sanh iecceeidenna = i © 5:05 / 1:15:19 Introduction > oO Go\" *"
+    },
+    {
+      "timestamp": "2026-07-02T17:44:32",
+      "source": "screen",
+      "text": "( ieee ~~ =] = ' ——————— ————E— , LAUGHTER] Uh, uh, uh, and | wan ted to intro duce"
+    },
+    {
+      "timestamp": "2026-07-02T17:44:41",
+      "source": "screen",
+      "text": "Class Coordinator: ~~ Co-head TA: i TAs: There's a class coordinator. 3 ONLINE"
+    },
+    {
+      "timestamp": "2026-07-02T17:44:49",
+      "source": "screen",
+      "text": "Class Coordinator; Co-head TAs: i. TAs: class happens when it's supposed to. 3 ONLINE"
+    },
+    {
+      "timestamp": "2026-07-02T17:44:58",
+      "source": "screen",
+      "text": "Class Coordinator; Co-head TA:: iii TAs: Do you guys want to stand up? 3 ONLINE"
+    },
+    {
+      "timestamp": "2026-07-02T17:45:07",
+      "source": "screen",
+      "text": "/ ( _ DP é __ a Oe ike Uh, and so bringing a lot of, um, uh, te INLINE nN"
+    },
+    {
+      "timestamp": "2026-07-02T17:45:16",
+      "source": "screen",
+      "text": "Stanford CS229: Machine Learning Course, Lecture 1 - Andrew Ng (Autumn 2018) “2 f | a. r’ § And with the large class that we have, of? Om + ———————— *- i © 5:57 / 1:15:19 Teaching team introductions > oO Go\""
+    },
+    {
+      "timestamp": "2026-07-02T17:45:21",
+      "source": "audio",
+      "text": "1.5 g of sugar 1.5 g of salt 1.5 g of sugar 1.5 g of flour 2.5 g of boiling water 2.5 g of flour 2.5 g of flour 2.5 g of yeast 2.5 g of flour 100 ml of water 7 g of extract"
+    },
+    {
+      "timestamp": "2026-07-02T17:45:25",
+      "source": "screen",
+      "text": "Mindtrace Ask Across Memory Al memory assistant Ask about this session or anything Mindtrace has indexed. Recording 00:01:11 Mindtrace Startc Stop capture Ask a question below, or start capture from the sidebar. Pe ita | Pause Summarize Delete session Export Markdown Export PDF Excluded apps 1Password, Keychain Access Apply privacy Search memory Search Import old sessions Activity [17:45:08] Captured screen: 1. Latest [screen] /(__DP é__ a Oe ike Uh, and so bringing a lot of, um, uh, te INLINE nN [17:45:17] Captured screen: 1. Latest [screen] Stanford CS229: Machine Learning Course, Lecture 1 - Andrew Ng (Autumn 2018) “2 fla. r’ § And with the large class that we have, of? Om + ... [17:45:22] Captured audio: 1. Latest [audio] 1.5 g of sugar 1.5 g of salt 1.5 g of sugar 1.5 g of flour 2.5 g of boiling water 2.5 g of flour Ask 2.5 g of flour 2.5 g of yeast 2.5 g of flou..."
+    }
+  ]
+}
